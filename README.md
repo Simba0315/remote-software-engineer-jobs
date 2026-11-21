@@ -2,7 +2,7 @@
 
 Remote software engineering jobs at companies hiring now: backend, frontend, full stack, mobile and platform roles. Check each job for the countries or time zones it accepts.
 
-**10,188 open right now · updated 2026-11-21.** The list below shows the 300 newest. Jobs come from
+**10,540 open right now · updated 2026-11-21.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/remote/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -11,6 +11,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
 | **Playlab** | [Staff Platform Engineer](https://jobseveryhour.com/job/staff-platform-engineer-playlab/) | Remote | $180K - $220K | 2026-11-21 |
+| **Fabric** | [Software Engineer](https://jobseveryhour.com/job/software-engineer-fabric-2/) | United States - Remote | $130K - $150K | 2026-11-21 |
 | **Databricks** | [Sr. Staff Forward Deployed Engineer](https://jobseveryhour.com/job/sr-staff-forward-deployed-engineer-databricks-2/) | Remote - Washington D.C.; Washington, D.C. | — | 2026-11-20 |
 | **Cortex** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-cortex/) | Remote | $200K - $260K | 2026-11-20 |
 | **Affirm** | [Software Engineer I, Backend (Streaming Infra)](https://jobseveryhour.com/job/software-engineer-i-backend-streaming-infra-affirm/) | Remote Canada | CA$101K - CA$151K | 2026-11-20 |
@@ -24,12 +25,29 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Vena Solutions** | [Staff Software Developer](https://jobseveryhour.com/job/staff-software-developer-vena-solutions/) | Canada · Remote | CA$129K - CA$175K |  |
 | **Veriforce** | [Software Developer (.NETCore and React)](https://jobseveryhour.com/job/software-developer-netcore-and-react-veriforce/) | Montreal, Quebec · Remote | — |  |
 | **Mobomo** | [Sr. Software Engineer - DMV](https://jobseveryhour.com/job/sr-software-engineer-dmv-mobomo/) | Remote | — |  |
+| **JobGet** | [Principal Software Engineer - Canada](https://jobseveryhour.com/job/principal-software-engineer-canada-jobget/) | Remote | — |  |
+| **JobGet** | [Principal Software Engineer - US](https://jobseveryhour.com/job/principal-software-engineer-us-jobget/) | Remote | — |  |
+| **ImagineX Consulting** | [Senior Software Engineer](https://jobseveryhour.com/job/senior-software-engineer-imaginex-consulting/) | Remote, United States | — |  |
+| **Tango** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-tango/) | United States · Remote | $200K - $240K |  |
+| **Zeitview** | [Sr. Software Engineer](https://jobseveryhour.com/job/sr-software-engineer-zeitview/) | Mountain View, California, United States · Remote | $210K - $225K |  |
+| **Sun King** | [SDE I - Backend](https://jobseveryhour.com/job/sde-i-backend-sun-king/) | New Delhi, Delhi · Remote | — |  |
+| **Sun King** | [SDE III - Backend](https://jobseveryhour.com/job/sde-iii-backend-sun-king/) | New Delhi, Delhi · Remote | — |  |
+| **Teaching Strategies** | [Software Engineering Manager (Remote)](https://jobseveryhour.com/job/software-engineering-manager-remote-teaching-strategies/) | Denton, Texas · Remote | — |  |
 | **IMCS** | [Java Backend Developer - Springboot/ Microservices](https://jobseveryhour.com/job/java-backend-developer-springboot-microservices-imcs/) | Mexico · Remote | — |  |
 | **Mobomo** | [UX/UI Developer](https://jobseveryhour.com/job/ux-ui-developer-mobomo/) | Remote | — |  |
 | **Nasstar** | [Senior Full Stack Developers](https://jobseveryhour.com/job/senior-full-stack-developers-nasstar/) | London, UK · Remote | — |  |
 | **Buyagift** | [Full Stack Developer](https://jobseveryhour.com/job/full-stack-developer-buyagift/) | Borehamwood, England, United Kingdom · Remote | — |  |
 | **Happy Cog** | [Senior Full Stack Web/Mobile Application Engineer](https://jobseveryhour.com/job/senior-full-stack-web-mobile-application-engineer-happy-cog/) | United States, USA · Remote | $95K - $140K |  |
+| **Hello Innovation** | [Full Stack Developer - React / Node.js](https://jobseveryhour.com/job/full-stack-developer-react-node-js-hello-innovation/) | Remote | — |  |
+| **Reach Game Studios** | [Full-Stack Web Developer](https://jobseveryhour.com/job/full-stack-web-developer-reach-game-studios/) | Sydney, New South Wales, Australia · Remote | — |  |
+| **Zeitview** | [Sr. Full Stack Engineer](https://jobseveryhour.com/job/sr-full-stack-engineer-zeitview/) | San Francisco, California, United States · Remote | $210K - $225K |  |
+| **87seconds** | [Full Stack Developer M/F](https://jobseveryhour.com/job/full-stack-developer-m-f-87seconds/) | Levallois-Perret, Île-de-France, France · Remote | — |  |
+| **Newfire Global Partners** | [Senior Full Stack Engineer (Node.js / Angular)](https://jobseveryhour.com/job/senior-full-stack-engineer-node-js-angular-newfire-global-partners/) | Medellin · Remote | — |  |
+| **Teaching Strategies** | [Senior Full Stack Golang Engineer (Remote)](https://jobseveryhour.com/job/senior-full-stack-golang-engineer-remote-teaching-strategies/) | Denton, Texas · Remote | — |  |
+| **Teaching Strategies** | [Senior Full Stack Engineer--SmartCenter (Remote)](https://jobseveryhour.com/job/senior-full-stack-engineer-smartcenter-remote-teaching-strategies/) | Denton, Texas · Remote | — |  |
 | **IMCS** | [Flutter Developer](https://jobseveryhour.com/job/flutter-developer-imcs/) | Irving, Texas, United States · Remote | — |  |
+| **Newfire Global Partners** | [Senior Android System Engineer](https://jobseveryhour.com/job/senior-android-system-engineer-newfire-global-partners/) | Zagreb, Croatia · Remote | — |  |
+| **Reach Game Studios** | [Concept Artist](https://jobseveryhour.com/job/concept-artist-reach-game-studios/) | Sydney, New South Wales, Australia · Remote | — |  |
 | **Vena Solutions** | [Staff Agentic Developer - Agent Platform and Runtime](https://jobseveryhour.com/job/staff-agentic-developer-agent-platform-and-runtime-vena-solutions/) | Canada · Remote | CA$210K - CA$284K |  |
 | **IMCS** | [Database Engineer](https://jobseveryhour.com/job/database-engineer-imcs/) | Irving, Texas, United States · Remote | — |  |
 | **Tabby** | [Middle Risk (QA) Engineer](https://jobseveryhour.com/job/middle-risk-qa-engineer-tabby/) | Belgrade, / · Remote | — |  |
@@ -48,25 +66,39 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **InEvent** | [QA](https://jobseveryhour.com/job/qa-inevent/) | Brasil · Remote | — |  |
 | **InEvent** | [QA](https://jobseveryhour.com/job/qa-inevent-2/) | Rio de Janeiro, Brasil · Remote | — |  |
 | **InEvent** | [QA](https://jobseveryhour.com/job/qa-inevent-3/) | São Paulo, Brasil · Remote | — |  |
+| **Thequantiumgroup** | [Senior QA Engineer](https://jobseveryhour.com/job/senior-qa-engineer-thequantiumgroup/) | Manchester, England, United Kingdom · Remote | — |  |
+| **Newfire Global Partners** | [Senior QA Engineer(BI focus)](https://jobseveryhour.com/job/senior-qa-engineer-bi-focus-newfire-global-partners/) | Boston, Massachusetts · Remote | — |  |
 | **IMCS** | [Q&A Automation Engineer -TechM](https://jobseveryhour.com/job/q-a-automation-engineer-techm-imcs/) | Irving, Texas, United States · Remote | — |  |
+| **87seconds** | [Automation Engineer](https://jobseveryhour.com/job/automation-engineer-87seconds/) | Makati City, Metro Manila, Philippines · Remote | — |  |
+| **Newfire Global Partners** | [Integration Manager](https://jobseveryhour.com/job/integration-manager-newfire-global-partners/) | Boston, Massachusetts · Remote | $130K - $160K |  |
 | **Bright Software** | [CRM/Hubspot Systems Architect - 12 month contract](https://jobseveryhour.com/job/crm-hubspot-systems-architect-12-month-contract-bright-software-2/) | Leamington Spa, United Kingdom · Remote | — |  |
 | **Vena Solutions** | [Solutions Architect - Professional Services](https://jobseveryhour.com/job/solutions-architect-professional-services-vena-solutions/) | Canada · Remote | CA$106K - CA$144K |  |
 | **NCC** | [OT Architect](https://jobseveryhour.com/job/ot-architect-ncc/) | Remote, Greater London | — |  |
 | **IMCS** | [Solutions architect](https://jobseveryhour.com/job/solutions-architect-imcs/) | Mexico · Remote | — |  |
 | **Weekday AI** | [Data Architect Lead](https://jobseveryhour.com/job/data-architect-lead-weekday-ai/) | India · Remote | — | 2026-11-21 |
+| **ImagineX Consulting** | [Software Solutions Architect](https://jobseveryhour.com/job/software-solutions-architect-imaginex-consulting/) | Remote, United States | — |  |
+| **Laird Norton Wetherby** | [Solutions Architect](https://jobseveryhour.com/job/solutions-architect-laird-norton-wetherby/) | Seattle, Washington, United States · Remote | $150K - $175K |  |
 | **BigHat Biosciences** | [Principal, Machine Learning Scientist](https://jobseveryhour.com/job/principal-machine-learning-scientist-bighat-biosciences/) | San Mateo, CA · Remote | $254K - $310K |  |
 | **Vena Solutions** | [Staff Agentic Developer - Data and AI Intelligence](https://jobseveryhour.com/job/staff-agentic-developer-data-and-ai-intelligence-vena-solutions/) | Canada · Remote | CA$210K - CA$284K |  |
 | **Nasstar** | [Principal Data Engineer](https://jobseveryhour.com/job/principal-data-engineer-nasstar/) | London, UK · Remote | — |  |
 | **Nasstar** | [Contract Principal Data Engineer](https://jobseveryhour.com/job/contract-principal-data-engineer-nasstar/) | London, UK · Remote | — |  |
+| **Tango** | [Principal Quality Engineer](https://jobseveryhour.com/job/principal-quality-engineer-tango/) | United States · Remote | — |  |
+| **Tango** | [Staff Analytics Engineer](https://jobseveryhour.com/job/staff-analytics-engineer-tango/) | United States or Canada · Remote | CA$160K - CA$190K |  |
+| **Tango** | [Principal Platform Engineer](https://jobseveryhour.com/job/principal-platform-engineer-tango/) | United States or Canada · Remote | CA$200K - CA$240K |  |
 | **Vena Solutions** | [Technical Lead, Senior Software Development](https://jobseveryhour.com/job/technical-lead-senior-software-development-vena-solutions/) | Canada · Remote | CA$115K - CA$155K |  |
 | **IMCS** | [Java Tech Lead](https://jobseveryhour.com/job/java-tech-lead-imcs/) | Irving, Texas, United States · Remote | — |  |
 | **Select Power Systems** | [Substation Team Lead Engineer](https://jobseveryhour.com/job/substation-team-lead-engineer-select-power-systems/) | Remote | — |  |
 | **Select Power Systems** | [Transmission Line Team Lead](https://jobseveryhour.com/job/transmission-line-team-lead-select-power-systems/) | Remote | — |  |
+| **ImagineX Consulting** | [Software Technical Lead](https://jobseveryhour.com/job/software-technical-lead-imaginex-consulting/) | Remote, United States | — |  |
+| **New Silver** | [Founding Partner — Capital Formation](https://jobseveryhour.com/job/founding-partner-capital-formation-new-silver/) | Remote | — |  |
 | **Tabby** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-tabby/) | Armenia · Remote | — |  |
 | **Tabby** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-tabby-2/) | Belgrade · Remote | — |  |
 | **Tabby** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-tabby-3/) | Tbilisi · Remote | — |  |
 | **Tabby** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-tabby-4/) | Kazakhstan · Remote | — |  |
+| **Gartner** | [Senior Director, Analyst - SAP AI and Technical Architecture, S/4HANA and AI UK, EU – remote.](https://jobseveryhour.com/job/senior-director-analyst-sap-ai-and-technical-architecture-s-gartner/) | Remote - United Kingdom; Remote - Ireland; Remote - Malta | — | 2026-11-21 |
 | **IMCS** | [SAP](https://jobseveryhour.com/job/sap-imcs/) | Irving, Texas, United States · Remote | — |  |
+| **Zeitview** | [NetSuite Systems Admin](https://jobseveryhour.com/job/netsuite-systems-admin-zeitview/) | Denver, Colorado, United States · Remote | $125K - $135K |  |
+| **Sun King** | [SAP Data Engineer](https://jobseveryhour.com/job/sap-data-engineer-sun-king/) | New Delhi, Delhi · Remote | — |  |
 | **IMCS** | [Java UI Internal](https://jobseveryhour.com/job/java-ui-internal-imcs/) | Irving, Texas, United States · Remote | — |  |
 | **IMCS** | [Data Engineer + Java](https://jobseveryhour.com/job/data-engineer-java-imcs/) | Irving, Texas, United States · Remote | — |  |
 | **IMCS** | [Sr Java Developer](https://jobseveryhour.com/job/sr-java-developer-imcs-2/) | Irving, Texas, United States · Remote | — |  |
@@ -80,10 +112,20 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **IMCS** | [Javascript, Charting, D3](https://jobseveryhour.com/job/javascript-charting-d3-imcs/) | Mexico · Remote | — |  |
 | **IMCS** | [Angular 6+](https://jobseveryhour.com/job/angular-6-imcs/) | Mexico · Remote | — |  |
 | **Buyagift** | [SQL & ETL Developer](https://jobseveryhour.com/job/sql-etl-developer-buyagift/) | Borehamwood, England, United Kingdom · Remote | — |  |
+| **Gilead Sciences** | [Sr. Manager, Analysis Oversight Statistical Programming Lead](https://jobseveryhour.com/job/sr-manager-analysis-oversight-statistical-programming-lead-gilead-sciences/) | United States – Remote | $154K - $199K | 2026-11-21 |
+| **Aixialgroup** | [Statistical Programmer III / Senior Statistical Programmer](https://jobseveryhour.com/job/statistical-programmer-iii-senior-statistical-programmer-aixialgroup/) | Timișoara, Timiș, Romania · Remote | — |  |
+| **Reach Game Studios** | [Programmer - Gameplay [UE4]](https://jobseveryhour.com/job/programmer-gameplay-ue4-reach-game-studios/) | Sydney, New South Wales, Australia · Remote | — |  |
 | **IMI Plc - Legacy Precision** | [Senior Applications Engineer](https://jobseveryhour.com/job/senior-applications-engineer-imi-plc-legacy-precision/) | University Park, Illinois, United States · Remote | — |  |
+| **Tango** | [Senior Platform Engineer](https://jobseveryhour.com/job/senior-platform-engineer-tango/) | United States or Canada · Remote | CA$140K - CA$175K |  |
+| **Gartner** | [Sr Director Analyst, AI Agent, Context and Platform Engineering - Remote UK](https://jobseveryhour.com/job/sr-director-analyst-ai-agent-context-and-platform-engineerin-gartner/) | Remote - United Kingdom; Remote - Ireland; Remote - Malta | — | 2026-11-21 |
+| **LCI-Lawinger Consulting** | [Platform Engineer – Identity Governance (SailPoint ISC)](https://jobseveryhour.com/job/platform-engineer-identity-governance-sailpoint-isc-lci-lawinger-consulting/) | Remote | — |  |
+| **Teaching Strategies** | [Senior Infrastructure Platform Engineer (Remote)](https://jobseveryhour.com/job/senior-infrastructure-platform-engineer-remote-teaching-strategies/) | Denton, Texas · Remote | — |  |
+| **Stamm** | [Interactive Technology Developer (Unity)](https://jobseveryhour.com/job/interactive-technology-developer-unity-stamm/) | Milwaukee, Wisconsin, United States · Remote | — |  |
 | **Affirm** | [Software Engineer I, Fullstack (Disputes Platform)](https://jobseveryhour.com/job/software-engineer-i-fullstack-disputes-platform-affirm/) | Remote Canada | CA$101K - CA$151K | 2026-11-20 |
+| **Harbor** | [Salesforce Developer](https://jobseveryhour.com/job/salesforce-developer-harbor/) | Remote, Canada; Remote, United States | — | 2026-11-20 |
 | **Temporal** | [Staff Software Engineer, AI Foundations (Agent Optimization)](https://jobseveryhour.com/job/staff-software-engineer-ai-foundations-ai-agent-optimization-temporal/) | United States (Remote) | $170K - $278K | 2026-11-20 |
 | **Brook & Whittle** | [AI Automation Engineer](https://jobseveryhour.com/job/ai-automation-engineer-brook-whittle/) | New Century, KS, USA · Remote | $115K - $125K | 2026-11-20 |
+| **Matx** | [Mechanical Engineering Lead - AI Rack Scale Systems](https://jobseveryhour.com/job/mechanical-engineering-lead-ai-rack-scale-systems-matx/) | Mountain View (HQ) or Remote | $160K - $275K | 2026-11-20 |
 | **Airbnb** | [Senior Software Engineer, Partner Integrations](https://jobseveryhour.com/job/senior-software-engineer-partner-integrations-airbnb/) | Remote, USA | $190K - $220K | 2026-11-20 |
 | **Curri** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-curri/) | Remote | $185K - $250K | 2026-11-20 |
 | **Northbeam** | [Staff Infrastructure Engineer](https://jobseveryhour.com/job/staff-infrastructure-engineer-northbeam/) | Remote - USA | $190K - $240K | 2026-11-20 |
@@ -104,8 +146,10 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **GitLab** | [Senior Solutions Architect Operations Manager](https://jobseveryhour.com/job/senior-solutions-architect-operations-manager-gitlab-2/) | Remote, Canada | — | 2026-11-20 |
 | **GitLab** | [Senior CX Platform Engineer](https://jobseveryhour.com/job/senior-cx-platform-engineer-gitlab-2/) | Remote, Canada | — | 2026-11-20 |
 | **GitLab** | [Professional Services Technical Architect - West](https://jobseveryhour.com/job/professional-services-technical-architect-west-gitlab-2/) | Remote, Canada | — | 2026-11-20 |
+| **Rightway** | [Senior Software Engineer, Fullstack (Ruby on Rails)](https://jobseveryhour.com/job/senior-software-engineer-fullstack-ruby-on-rails-rightway/) | Remote | $160K - $195K | 2026-11-20 |
 | **Talkdesk** | [Applied AI Architect](https://jobseveryhour.com/job/applied-ai-architect-talkdesk/) | Remote - United States | $220K - $330K | 2026-11-20 |
 | **Cribl** | [Staff Software Engineer, Agentic Tools](https://jobseveryhour.com/job/staff-software-engineer-agentic-tools-cribl-2/) | Remote - United States | $205K - $240K | 2026-11-20 |
+| **Skydropx** | [Senior Software Engineer (Node.JS)](https://jobseveryhour.com/job/senior-software-engineer-node-js-skydropx/) | Colombia · Remote | — | 2026-11-20 |
 | **Horizon3ai** | [Staff Attack Engineer, Shared Services](https://jobseveryhour.com/job/staff-attack-engineer-shared-services-horizon3ai/) | US, Remote | $238K - $280K | 2026-11-20 |
 | **Fal Ai** | [AI Fabric Architect](https://jobseveryhour.com/job/ai-fabric-architect-fal-ai/) | Remote | — | 2026-11-20 |
 | **Airbnb** | [Staff Data Scientist - Martech Platform (ML/Algos)](https://jobseveryhour.com/job/staff-data-scientist-martech-platform-ml-algos-airbnb/) | Remote - USA | $200K - $242K | 2026-11-20 |
@@ -115,12 +159,14 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Clera** | [Member of Technical Staff](https://jobseveryhour.com/job/member-of-technical-staff-clera-6/) | New York · Remote | — | 2026-11-20 |
 | **Temporal** | [Staff Software Engineer, Cloud Data Storage](https://jobseveryhour.com/job/staff-software-engineer-cloud-data-storage-temporal/) | United States (Remote) | $170K - $278K | 2026-11-20 |
 | **Smartsheet** | [Director, Finance Systems & ERP](https://jobseveryhour.com/job/director-finance-systems-erp-smartsheet-2/) | -REMOTE, USA- | $175K - $290K | 2026-11-20 |
+| **Snappy Kraken** | [Junior Web Designer](https://jobseveryhour.com/job/junior-web-designer-snappy-kraken/) | Canada; Remote (United States) | $45K - $50K | 2026-11-20 |
 | **The Copper River Family of Companies** | [RICE Object Developer/Oracle Database Administrator (System Programmer)](https://jobseveryhour.com/job/rice-object-developer-oracle-database-administrator-system-p-the-copper-river-family-of-companies/) | Remote | $80K - $90K | 2026-11-20 |
 | **Lightning AI** | [Engineering Manager, Infrastructure Software](https://jobseveryhour.com/job/engineering-manager-infrastructure-software-lightning-ai/) | New York, New York, United States; Remote; San Francisco, California, United States; Seattle, Washington, United States | $205K - $310K | 2026-11-20 |
 | **Bitwarden** | [Senior Database Engineer](https://jobseveryhour.com/job/senior-database-engineer-bitwarden/) | US Remote | $150K - $210K | 2026-11-20 |
 | **Netboxlabs** | [Staff Software Engineer, Tech Lead - NetBox Core](https://jobseveryhour.com/job/staff-software-engineer-tech-lead-netbox-core-netboxlabs/) | US East Coast Remote | $110K - $240K | 2026-11-20 |
 | **Cribl** | [Staff Technical Support Engineer](https://jobseveryhour.com/job/staff-technical-support-engineer-cribl-2/) | Remote - United Kingdom | £75K - £98K | 2026-11-20 |
 | **Cribl** | [Staff Technical Support Engineer](https://jobseveryhour.com/job/staff-technical-support-engineer-cribl/) | Remote - Netherlands | €92K - €120K | 2026-11-20 |
+| **Fabric** | [Senior Software Engineer, API](https://jobseveryhour.com/job/senior-software-engineer-api-fabric/) | United States - Remote | $140K - $170K | 2026-11-20 |
 | **M9 Solutions** | [SAP Data & Analytics Consultant](https://jobseveryhour.com/job/sap-data-analytics-consultant-m9-solutions/) | Remote - No clearance required | $160K - $180K | 2026-11-20 |
 | **ClickUp** | [Senior Backend Engineer, Identity and Access Management](https://jobseveryhour.com/job/senior-backend-engineer-identity-and-access-management-clickup/) | Canada · Remote | $160K - $210K | 2026-11-20 |
 | **SecurityScorecard** | [Senior Staff Site Reliability Engineer](https://jobseveryhour.com/job/senior-staff-site-reliability-engineer-securityscorecard/) | Remote (US/CAN/LATAM) | $150K - $160K | 2026-11-20 |
@@ -190,11 +236,13 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **SET Development** | [Senior Embedded Software Engineer - SECURITY CLEARANCE REQUIRED](https://jobseveryhour.com/job/senior-embedded-software-engineer-security-clearance-require-set-development/) | Remote | — |  |
 | **SET Development** | [TS/SCI Senior Embedded Software Engineer - Satellite Experience](https://jobseveryhour.com/job/ts-sci-senior-embedded-software-engineer-satellite-experienc-set-development/) | Remote | — |  |
 | **ERP Suites** | [AI Software Engineer](https://jobseveryhour.com/job/ai-software-engineer-erp-suites/) | Remote | — | 2026-11-20 |
+| **GE Aerospace** | [Senior Cloud & Web Software Engineer](https://jobseveryhour.com/job/senior-cloud-web-software-engineer-ge-aerospace/) | Grand Rapids; Remote | $130K - $173K | 2026-11-20 |
 | **10Pearls** | [Backend Python/Django](https://jobseveryhour.com/job/backend-python-django-10pearls/) | Remote | — |  |
 | **Watu** | [Senior Backend Engineer - Java/Architecture](https://jobseveryhour.com/job/senior-backend-engineer-java-architecture-watu/) | Remote | — |  |
 | **Intetics** | [1227 / Back-end Developer](https://jobseveryhour.com/job/1227-back-end-developer-intetics/) | Bulgaria · Remote | — | 2026-11-20 |
 | **Pitchup.com** | [Senior Backend Engineer (Remote UK)](https://jobseveryhour.com/job/senior-backend-engineer-remote-uk-pitchup-com/) | Remote | £75K - £90K |  |
 | **Weekday AI** | [Principal Backend Engineer](https://jobseveryhour.com/job/principal-backend-engineer-weekday-ai/) | India · Remote | — | 2026-11-20 |
+| **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
 | **10Pearls** | [Frontend React/Ember](https://jobseveryhour.com/job/frontend-react-ember-10pearls/) | Remote | — |  |
 | **Portland Webworks** | [Drupal Front End Developer](https://jobseveryhour.com/job/drupal-front-end-developer-portland-webworks/) | Remote | — |  |
 | **Intermedia Intelligent Communications** | [Senior Frontend Engineer](https://jobseveryhour.com/job/senior-frontend-engineer-intermedia-intelligent-communications/) | Portugal · Remote | — |  |
@@ -202,6 +250,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Outpatient** | [Front End Engineer](https://jobseveryhour.com/job/front-end-engineer-outpatient/) | Remote | — |  |
 | **Intetics** | [1226 / Front-end Developer](https://jobseveryhour.com/job/1226-front-end-developer-intetics/) | Bulgaria · Remote | — | 2026-11-20 |
 | **Pitchup.com** | [Senior Frontend Engineer (Remote UK)](https://jobseveryhour.com/job/senior-frontend-engineer-remote-uk-pitchup-com/) | Remote | £75K - £82K |  |
+| **Kyndryl** | [Frontend Engineer](https://jobseveryhour.com/job/frontend-engineer-kyndryl/) | Phoenix, AZ, USA · Remote | — | 2026-11-20 |
 | **INTEGRITYOne Partners** | [Full Stack Developer](https://jobseveryhour.com/job/full-stack-developer-integrityone-partners/) | Remote | — |  |
 | **Zealogics.com** | [AI Fullstack Architect](https://jobseveryhour.com/job/ai-fullstack-architect-zealogics-com/) | Remote | — |  |
 | **Portland Webworks** | [Full Stack Java/React Developer](https://jobseveryhour.com/job/full-stack-java-react-developer-portland-webworks/) | Remote | — |  |
@@ -210,6 +259,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Smartbox** | [Full Stack Developer](https://jobseveryhour.com/job/full-stack-developer-smartbox/) | Borehamwood, England, United Kingdom · Remote | — |  |
 | **Srijan Technologies PVT** | [Technical Architect - Full Stack](https://jobseveryhour.com/job/technical-architect-full-stack-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
 | **Srijan Technologies PVT** | [Full Stack Developer - Python & React](https://jobseveryhour.com/job/full-stack-developer-python-react-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
+| **D2B** | [Full Stack Digital Marketer (Martech)](https://jobseveryhour.com/job/full-stack-digital-marketer-martech-d2b/) | Philippines · Remote | — | 2026-11-20 |
 | **The Eastwood** | [Web Developer, LAMP, Magento, AWS – Eastwood Automotive](https://jobseveryhour.com/job/web-developer-lamp-magento-aws-eastwood-automotive-the-eastwood/) | Remote | — |  |
 | **Iohk** | [Web Developer - JavaScript, Node.js, React, GraphQL](https://jobseveryhour.com/job/web-developer-javascript-node-js-react-graphql-iohk/) | Remote - European Time Zone | — |  |
 | **Zealogics.com** | [Sr Cloud Product Engineer - Fully Remote Opportunity](https://jobseveryhour.com/job/sr-cloud-product-engineer-fully-remote-opportunity-zealogics-com/) | Remote | — |  |
@@ -227,6 +277,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **ProphetX** | [Quality Assurance Engineer](https://jobseveryhour.com/job/quality-assurance-engineer-prophetx/) | New York · Remote | $80K - $120K |  |
 | **Cyclops** | [Senior QA Engineer (Remote)](https://jobseveryhour.com/job/senior-qa-engineer-remote-cyclops/) | Remote | — |  |
 | **CLEAResult** | [Commercial QA/QC Specialist](https://jobseveryhour.com/job/commercial-qa-qc-specialist-clearesult/) | Remote - Michigan; Battle Creek MI - Wayne Road | $49K - $66K | 2026-11-20 |
+| **Fortrea** | [QA Compliance Lead Auditor (GCP) North Carolina area Remote Based](https://jobseveryhour.com/job/qa-compliance-lead-auditor-gcp-north-carolina-area-remote-ba-fortrea/) | Durham; Remote North Carolina | $70K - $125K | 2026-11-20 |
 | **WonderBotz** | [RPA Solution Architect](https://jobseveryhour.com/job/rpa-solution-architect-wonderbotz/) | Remote | — |  |
 | **Intermedia Intelligent Communications** | [Core Systems Automation Engineer](https://jobseveryhour.com/job/core-systems-automation-engineer-intermedia-intelligent-communications/) | Georgia · Remote | — |  |
 | **In Tandem** | [Finance Automation Engineer](https://jobseveryhour.com/job/finance-automation-engineer-in-tandem/) | Minneapolis, Minnesota · Remote | $85K - $125K |  |
@@ -250,66 +301,15 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Turnkey Consulting** | [Identity & Access Management Architect (Singapore)](https://jobseveryhour.com/job/identity-access-management-architect-singapore-turnkey-consulting/) | 60 Paya Lebar Road, #11-30, Paya Lebar Square, Singapore 409051 · Remote | — |  |
 | **Weekday AI** | [AWS AI Architect](https://jobseveryhour.com/job/aws-ai-architect-weekday-ai/) | India · Remote | — | 2026-11-20 |
 | **Arctiq** | [Dynatrace Delivery Architect](https://jobseveryhour.com/job/dynatrace-delivery-architect-arctiq/) | Brentwood, Tennessee, United States · Remote | — | 2026-11-20 |
+| **Celerity Consulting** | [Solution Architect](https://jobseveryhour.com/job/solution-architect-celerity-consulting/) | Remote | $165K - $185K | 2026-11-20 |
+| **TD Bank** | [Business Architect (US)](https://jobseveryhour.com/job/business-architect-us-td-bank/) | Boston, Massachusetts; Lexington, South Carolina; Greenville, South Carolina · Remote | $91K - $146K | 2026-11-20 |
+| **GDIT** | [Cybersecurity Architect](https://jobseveryhour.com/job/cybersecurity-architect-gdit/) | Any Location / Remote | $149K - $196K | 2026-11-20 |
+| **GDIT** | [Solutions Architect Sr Principal](https://jobseveryhour.com/job/solutions-architect-sr-principal-gdit/) | Any Location / Remote | $174K - $236K | 2026-11-20 |
 | **Solventum** | [Principal Cybersecurity Assurance Engineer (Remote - United States)](https://jobseveryhour.com/job/principal-cybersecurity-assurance-engineer-remote-united-sta-solventum/) | Remote - California; Remote-United States | $124K - $170K | 2026-11-20 |
 | **ProphetX** | [Staff DevOps Engineer](https://jobseveryhour.com/job/staff-devops-engineer-prophetx/) | New York · Remote | $180K - $220K |  |
 | **SET Development** | [Principal Systems Engineer](https://jobseveryhour.com/job/principal-systems-engineer-set-development/) | Remote | — |  |
-| **Watu** | [Tech Lead - Aftersales Engineering](https://jobseveryhour.com/job/tech-lead-aftersales-engineering-watu/) | Remote | — |  |
-| **Watu** | [Tech Lead - Messaging Experience Engineering](https://jobseveryhour.com/job/tech-lead-messaging-experience-engineering-watu/) | Remote | — |  |
-| **Watu** | [Tech Lead- Onboarding Engineering](https://jobseveryhour.com/job/tech-lead-onboarding-engineering-watu/) | Remote | — |  |
-| **Watu** | [Tech Lead- Payments Engineering](https://jobseveryhour.com/job/tech-lead-payments-engineering-watu/) | Remote | — |  |
-| **Umbrella BPO** | [Customer Support Team Lead](https://jobseveryhour.com/job/customer-support-team-lead-umbrella-bpo/) | Remote | — |  |
-| **Capio** | [Salesforce Technical Lead](https://jobseveryhour.com/job/salesforce-technical-lead-capio/) | Remote | $140K - $180K |  |
-| **Intermedia Intelligent Communications** | [Team Lead, DevOps Engineer (Unite Services)](https://jobseveryhour.com/job/team-lead-devops-engineer-unite-services-intermedia-intelligent-communications/) | Portugal · Remote | — |  |
-| **Intermedia Intelligent Communications** | [Team Lead, DevOps Engineer](https://jobseveryhour.com/job/team-lead-devops-engineer-intermedia-intelligent-communications/) | United Kingdom · Remote | — |  |
-| **Unison Risk Advisors** | [Employee Benefits Client Manager Team Lead – Large Group](https://jobseveryhour.com/job/employee-benefits-client-manager-team-lead-large-group-unison-risk-advisors/) | Baltimore, Maryland, United States · Remote | $150K - $175K |  |
-| **Srijan Technologies PVT** | [Technical Lead DevOps & Security](https://jobseveryhour.com/job/technical-lead-devops-security-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
-| **Srijan Technologies PVT** | [Technical Lead DevOps & Databricks](https://jobseveryhour.com/job/technical-lead-devops-databricks-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
-| **Srijan Technologies PVT** | [Technical Lead DevOps](https://jobseveryhour.com/job/technical-lead-devops-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
-| **Srijan Technologies PVT** | [Technical Lead - Data Engineer (Data&AI)](https://jobseveryhour.com/job/technical-lead-data-engineer-data-ai-srijan-technologies-pvt/) | Gurgaon · Remote | — |  |
-| **Srijan Technologies PVT** | [Technical Lead DevOps](https://jobseveryhour.com/job/technical-lead-devops-srijan-technologies-pvt-2/) | Gurugram, Haryana, India · Remote | — |  |
-| **C10 Labs** | [Founding Product Designer](https://jobseveryhour.com/job/founding-product-designer-c10-labs/) | Washington, DC, Washington DC · Remote | $40 - $50 an hour |  |
-| **Pitchup.com** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-pitchup-com/) | Remote | £100K - £120K |  |
-| **Iohk** | [Community Lead & Developer Relations](https://jobseveryhour.com/job/community-lead-developer-relations-iohk/) | Remote | — |  |
-| **Sembi** | [Salesforce Administrator / Developer](https://jobseveryhour.com/job/salesforce-administrator-developer-sembi/) | Remote | — |  |
-| **AAPC** | [Junior Salesforce Developer](https://jobseveryhour.com/job/junior-salesforce-developer-aapc/) | Remote | — |  |
-| **VISEO - Spain** | [SAP FI Consultant with Coupa](https://jobseveryhour.com/job/sap-fi-consultant-with-coupa-viseo-spain/) | Remote | — |  |
-| **Tenthpin** | [SAP Validation Lead – Life Sciences (CSV/CSA) - (all Genders)](https://jobseveryhour.com/job/sap-validation-lead-life-sciences-csv-csa-all-genders-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [SAP Quality Management (QM) Consultant (all genders) (Any location in Poland)](https://jobseveryhour.com/job/sap-quality-management-qm-consultant-all-genders-any-locatio-tenthpin/) | Warszawa, Mazowieckie, Poland · Remote | — |  |
-| **Tenthpin** | [SAP Quality Management (QM) Consultant (all genders) (Any location in Portugal)](https://jobseveryhour.com/job/sap-quality-management-qm-consultant-all-genders-any-locatio-tenthpin-2/) | Lisbon, Portugal · Remote | — |  |
-| **Tenthpin** | [SAP Finance Consultant (any location India)](https://jobseveryhour.com/job/sap-finance-consultant-any-location-india-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Quality Management (QM) Consultant (Any location in India; Preferred - Bangalore, Hyderabad and Pune)](https://jobseveryhour.com/job/sap-quality-management-qm-consultant-any-location-in-india-p-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Extended Warehouse Management (EWM) Expert (all genders) (Any location in Portugal)](https://jobseveryhour.com/job/sap-extended-warehouse-management-ewm-expert-all-genders-any-tenthpin/) | Lisbon, Portugal · Remote | — |  |
-| **Tenthpin** | [SAP Data Migration Lead - (Anywhere in India; Preferred Bangalore, Hyderabad & Pune)](https://jobseveryhour.com/job/sap-data-migration-lead-anywhere-in-india-preferred-bangalor-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Transportation Management (TM) Consultant (all genders) (Any location - USA))](https://jobseveryhour.com/job/sap-transportation-management-tm-consultant-all-genders-any-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP EWM Junior Consultant](https://jobseveryhour.com/job/sap-ewm-junior-consultant-tenthpin/) | Greater London, England, United Kingdom · Remote | — |  |
-| **Tenthpin** | [SAP Transportation Management (TM) Consultant (all genders) (Any location in Portugal)](https://jobseveryhour.com/job/sap-transportation-management-tm-consultant-all-genders-any-tenthpin-2/) | Lisbon, Portugal · Remote | — |  |
-| **Tenthpin** | [SAP QM / Batch Release Hub (BRH) Consultant (Location - Pune, Hyderabad & Bangalore)](https://jobseveryhour.com/job/sap-qm-batch-release-hub-brh-consultant-location-pune-hydera-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Manufacturing/Digital Manufacturing Consultant](https://jobseveryhour.com/job/sap-manufacturing-digital-manufacturing-consultant-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP Material Management (MM) Consultant (all genders) (Any location in UK)](https://jobseveryhour.com/job/sap-material-management-mm-consultant-all-genders-any-locati-tenthpin/) | Greater London, England, United Kingdom · Remote | — |  |
-| **Tenthpin** | [SAP Material Management (MM) Consultant (all genders) (Any location in Germany)](https://jobseveryhour.com/job/sap-material-management-mm-consultant-all-genders-any-locati-tenthpin-2/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [Senior Advisor SAP SD OTC](https://jobseveryhour.com/job/senior-advisor-sap-sd-otc-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP Basis Consultant/ RISE Administrator (Any location in India; Preferred - Bangalore, Hyderabad and Pune)](https://jobseveryhour.com/job/sap-basis-consultant-rise-administrator-any-location-in-indi-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Security Consultant (Anywhere in India; preferred Bangalore, Hyderabad and Pune)](https://jobseveryhour.com/job/sap-security-consultant-anywhere-in-india-preferred-bangalor-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Development (ABAP) Expert (All genders) - Any location in Germany](https://jobseveryhour.com/job/sap-development-abap-expert-all-genders-any-location-in-germ-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [Senior SAP QM Consultant](https://jobseveryhour.com/job/senior-sap-qm-consultant-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP S/4HANA Plant Maintenance / Enterprise Asset Management (PM/ EAM) Consultant (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-s-4hana-plant-maintenance-enterprise-asset-management-pm-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [Senior SAP MM (Materials Management) Consultant](https://jobseveryhour.com/job/senior-sap-mm-materials-management-consultant-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP Transportation Management (TM) Consultant](https://jobseveryhour.com/job/sap-transportation-management-tm-consultant-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Programme Manager (all Genders - UK)](https://jobseveryhour.com/job/sap-programme-manager-all-genders-uk-tenthpin/) | Greater London, England, United Kingdom · Remote | — |  |
-| **Tenthpin** | [Senior SAP Finance & Controlling (FICO) Consultant (Any location in India)](https://jobseveryhour.com/job/senior-sap-finance-controlling-fico-consultant-any-location-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Manufacturing / Digital Manufacturing Consultant (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-manufacturing-digital-manufacturing-consultant-all-gende-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [SAP Manufacturing / Digital Manufacturing Consultant](https://jobseveryhour.com/job/sap-manufacturing-digital-manufacturing-consultant-tenthpin-2/) | Greater London, England, United Kingdom · Remote | — |  |
-| **Tenthpin** | [SAP Finance and Controlling (FI/CO) Consultant](https://jobseveryhour.com/job/sap-finance-and-controlling-fi-co-consultant-tenthpin/) | Greater London, England, United Kingdom · Remote | — |  |
-| **Tenthpin** | [SAP Extended Warehouse Management (EWM) Consultant (all genders) (Any location in Poland)](https://jobseveryhour.com/job/sap-extended-warehouse-management-ewm-consultant-all-genders-tenthpin/) | Warszawa, Mazowieckie, Poland · Remote | — |  |
-| **Tenthpin** | [SAP Extended Warehouse Management (EWM) Consultant (Any location in India; Preferred Bangalore, Hyderabad & Pune)](https://jobseveryhour.com/job/sap-extended-warehouse-management-ewm-consultant-any-locatio-tenthpin/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Tenthpin** | [SAP Sales & Distribution (SD) Consultant – S/4HANA (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-sales-distribution-sd-consultant-s-4hana-all-genders-any-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [SAP Finance & Controlling (FI CO) Expert (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-finance-controlling-fi-co-expert-all-genders-any-locatio-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [SAP Finance & Controlling (FI/CO) Consultant (all genders) (Any location in Poland)](https://jobseveryhour.com/job/sap-finance-controlling-fi-co-consultant-all-genders-any-loc-tenthpin/) | Warszawa, Mazowieckie, Poland · Remote | — |  |
-| **Tenthpin** | [SAP Finance & Controlling (FI/CO) Consultant (all genders) (Any location in Portugal)](https://jobseveryhour.com/job/sap-finance-controlling-fi-co-consultant-all-genders-any-loc-tenthpin-2/) | Lisbon, Portugal · Remote | — |  |
-| **Tenthpin** | [Senior SAP FICO Consultant](https://jobseveryhour.com/job/senior-sap-fico-consultant-tenthpin/) | Sandy Springs, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [Senior SAP QM Consultant](https://jobseveryhour.com/job/senior-sap-qm-consultant-tenthpin-2/) | Atlanta, Georgia, United States · Remote | — |  |
-| **Tenthpin** | [SAP Extended Warehouse Management (EWM) Expert (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-extended-warehouse-management-ewm-expert-all-genders-any-tenthpin-2/) | Eschborn, Hessen, Germany · Remote | — |  |
-| **Tenthpin** | [SAP Finance & Controlling (FI/CO) Consultant – specialising in Controlling (all genders) - Any location in Germany](https://jobseveryhour.com/job/sap-finance-controlling-fi-co-consultant-specialising-in-con-tenthpin/) | Eschborn, Hessen, Germany · Remote | — |  |
+| **GDIT** | [AI Engineer Principal](https://jobseveryhour.com/job/ai-engineer-principal-gdit/) | Any Location / Remote | $149K - $201K | 2026-11-20 |
+| **GDIT** | [Senior Principal Cyber Solutions Engineer](https://jobseveryhour.com/job/senior-principal-cyber-solutions-engineer-gdit/) | Any Location / Remote | $170K - $230K | 2026-11-20 |
 
 ## More
 
