@@ -1,0 +1,33 @@
+{
+ "title": "Remote Software Engineer Jobs (updated daily)",
+ "intro": "Remote software engineering jobs at companies hiring now: backend, frontend, full stack, mobile and platform roles. Check each job for the countries or time zones it accepts.",
+ "feed": "https://jobseveryhour.com/api/v1/lists/remote-software-engineer.json",
+ "page": "https://jobseveryhour.com/categories/software-development/remote/",
+ "more": [
+  [
+   "All remote jobs",
+   "https://jobseveryhour.com/remote/"
+  ],
+  [
+   "Remote jobs open to any country",
+   "https://jobseveryhour.com/work-from-anywhere/"
+  ],
+  [
+   "Remote jobs by time zone",
+   "https://jobseveryhour.com/remote/time-zones/"
+  ],
+  [
+   "Software engineer salaries",
+   "https://jobseveryhour.com/salaries/software-engineer/"
+  ],
+  [
+   "Tech internships",
+   "https://github.com/Simba0315/tech-internships-2027"
+  ],
+  [
+   "New grad software engineer jobs",
+   "https://github.com/Simba0315/new-grad-software-engineer-jobs"
+  ]
+ ],
+ "repo": "Simba0315/remote-software-engineer-jobs"
+}
