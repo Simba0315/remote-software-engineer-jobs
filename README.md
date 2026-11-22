@@ -2,7 +2,7 @@
 
 Remote software engineering jobs at companies hiring now: backend, frontend, full stack, mobile and platform roles. Check each job for the countries or time zones it accepts.
 
-**10,792 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**10,852 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/remote/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,28 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Storyteller** | [Mobile Software Engineer (iOS/Android SDK)](https://jobseveryhour.com/job/mobile-software-engineer-ios-android-sdk-storyteller/) | Remote | — |  |
+| **Storyteller** | [Mobile Software Engineer (iOS/Android SDK)](https://jobseveryhour.com/job/mobile-software-engineer-ios-android-sdk-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [Mobile Software Engineer (iOS/Android SDK)](https://jobseveryhour.com/job/mobile-software-engineer-ios-android-sdk-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [Mobile Software Engineer (iOS/Android SDK)](https://jobseveryhour.com/job/mobile-software-engineer-ios-android-sdk-storyteller-4/) | Remote | — |  |
+| **Storyteller** | [Software Engineer (Native SDKs)](https://jobseveryhour.com/job/software-engineer-native-sdks-storyteller/) | Remote | — |  |
+| **Storyteller** | [Software Engineer (Native SDKs)](https://jobseveryhour.com/job/software-engineer-native-sdks-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [Software Engineer (Native SDKs)](https://jobseveryhour.com/job/software-engineer-native-sdks-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [Software Engineer (Native SDKs)](https://jobseveryhour.com/job/software-engineer-native-sdks-storyteller-4/) | Remote | — |  |
+| **Karman** | [Software Engineer, On Device](https://jobseveryhour.com/job/software-engineer-on-device-karman/) | Remote | $120K - $150K |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-4/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-5/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-6/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-7/) | Remote | — |  |
+| **Karman** | [Application Engineer, Hardware/Firmware (OEM Integrations)](https://jobseveryhour.com/job/application-engineer-hardware-firmware-oem-integrations-karman/) | Remote | $175K - $245K |  |
+| **Storyteller** | [QA Engineer - AI Native](https://jobseveryhour.com/job/qa-engineer-ai-native-storyteller/) | Remote | — |  |
+| **Storyteller** | [QA Engineer - AI Native](https://jobseveryhour.com/job/qa-engineer-ai-native-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [QA Engineer - AI Native](https://jobseveryhour.com/job/qa-engineer-ai-native-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [QA Engineer - AI Native](https://jobseveryhour.com/job/qa-engineer-ai-native-storyteller-4/) | Remote | — |  |
+| **Karman** | [Principal Architect, Simulation Platform](https://jobseveryhour.com/job/principal-architect-simulation-platform-karman/) | Remote | $200K - $240K |  |
 | **Clera** | [Member of Technical Staff, Agents](https://jobseveryhour.com/job/member-of-technical-staff-agents-clera-3/) | Palo Alto · Remote | $200K - $300K | 2026-11-21 |
 | **Clera** | [Senior Member of Technical Staff](https://jobseveryhour.com/job/senior-member-of-technical-staff-clera-4/) | New York · Remote | $150K - $215K | 2026-11-21 |
 | **Clera** | [Founding Enterprise Account Executive](https://jobseveryhour.com/job/founding-enterprise-account-executive-clera-5/) | remote | $150K - $175K | 2026-11-21 |
@@ -166,6 +188,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Cribl** | [Staff Software Engineer, Agentic Tools](https://jobseveryhour.com/job/staff-software-engineer-agentic-tools-cribl-2/) | Remote - United States | $205K - $240K | 2026-11-20 |
 | **Skydropx** | [Senior Software Engineer (Node.JS)](https://jobseveryhour.com/job/senior-software-engineer-node-js-skydropx/) | Colombia · Remote | — | 2026-11-20 |
 | **Horizon3ai** | [Staff Attack Engineer, Shared Services](https://jobseveryhour.com/job/staff-attack-engineer-shared-services-horizon3ai/) | US, Remote | $238K - $280K | 2026-11-20 |
+| **NationsBenefits** | [Sr Staff Engineer – Data Analytics](https://jobseveryhour.com/job/sr-staff-engineer-data-analytics-nationsbenefits/) | United States · Remote | — | 2026-09-22 |
 | **Fal Ai** | [AI Fabric Architect](https://jobseveryhour.com/job/ai-fabric-architect-fal-ai/) | Remote | — | 2026-11-20 |
 | **Airbnb** | [Staff Data Scientist - Martech Platform (ML/Algos)](https://jobseveryhour.com/job/staff-data-scientist-martech-platform-ml-algos-airbnb/) | Remote - USA | $200K - $242K | 2026-11-20 |
 | **Diverge Health** | [Sr. Software Engineer - Data](https://jobseveryhour.com/job/sr-software-engineer-data-diverge-health/) | Remote | $150K - $210K | 2026-11-20 |
@@ -257,12 +280,14 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **ERP Suites** | [AI Software Engineer](https://jobseveryhour.com/job/ai-software-engineer-erp-suites/) | Remote | — | 2026-11-20 |
 | **GE Aerospace** | [Senior Cloud & Web Software Engineer](https://jobseveryhour.com/job/senior-cloud-web-software-engineer-ge-aerospace/) | Grand Rapids; Remote | $130K - $173K | 2026-11-20 |
 | **Parsons** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-parsons/) | US - Remote (Any Location) | $64K - $111K | 2026-11-20 |
+| **Zillow** | [Director, Software Engineering, Big Data](https://jobseveryhour.com/job/director-software-engineering-big-data-zillow/) | Remote-USA | $251K - $402K | 2026-11-20 |
 | **10Pearls** | [Backend Python/Django](https://jobseveryhour.com/job/backend-python-django-10pearls/) | Remote | — |  |
 | **Watu** | [Senior Backend Engineer - Java/Architecture](https://jobseveryhour.com/job/senior-backend-engineer-java-architecture-watu/) | Remote | — |  |
 | **Intetics** | [1227 / Back-end Developer](https://jobseveryhour.com/job/1227-back-end-developer-intetics/) | Bulgaria · Remote | — | 2026-11-20 |
 | **Pitchup.com** | [Senior Backend Engineer (Remote UK)](https://jobseveryhour.com/job/senior-backend-engineer-remote-uk-pitchup-com/) | Remote | £75K - £90K |  |
 | **Weekday AI** | [Principal Backend Engineer](https://jobseveryhour.com/job/principal-backend-engineer-weekday-ai/) | India · Remote | — | 2026-11-20 |
 | **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
+| **Bitovi** | [Backend Developer Consultant](https://jobseveryhour.com/job/backend-developer-consultant-bitovi/) | Remote | — | 2026-11-20 |
 | **10Pearls** | [Frontend React/Ember](https://jobseveryhour.com/job/frontend-react-ember-10pearls/) | Remote | — |  |
 | **Portland Webworks** | [Drupal Front End Developer](https://jobseveryhour.com/job/drupal-front-end-developer-portland-webworks/) | Remote | — |  |
 | **Intermedia Intelligent Communications** | [Senior Frontend Engineer](https://jobseveryhour.com/job/senior-frontend-engineer-intermedia-intelligent-communications/) | Portugal · Remote | — |  |
@@ -285,31 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Zealogics.com** | [Sr Cloud Product Engineer - Fully Remote Opportunity](https://jobseveryhour.com/job/sr-cloud-product-engineer-fully-remote-opportunity-zealogics-com/) | Remote | — |  |
 | **Kwanii** | [2D Game Artist/UI Designer (Work-from-Home, Project-Based)](https://jobseveryhour.com/job/2d-game-artist-ui-designer-work-from-home-project-based-kwanii/) | Remote | — |  |
 | **AppQuantum** | [Game Producer](https://jobseveryhour.com/job/game-producer-appquantum/) | Limassol, Agios Athanasios · Remote | — |  |
-| **Together** | [3D Graphics Engineer (Three.js / WebGL)](https://jobseveryhour.com/job/3d-graphics-engineer-three-js-webgl-together/) | Sarasota, Florida · Remote | — |  |
-| **Watu** | [QA Chapter Lead](https://jobseveryhour.com/job/qa-chapter-lead-watu/) | Remote | — |  |
-| **Watu** | [Senior QA Engineer](https://jobseveryhour.com/job/senior-qa-engineer-watu/) | Remote | — |  |
-| **Learntastic** | [Quality Assurance Engineer](https://jobseveryhour.com/job/quality-assurance-engineer-learntastic/) | Remote | — |  |
-| **Kwanii** | [Quality Assurance Engineer (Work-from-Home, Project-based)](https://jobseveryhour.com/job/quality-assurance-engineer-work-from-home-project-based-kwanii/) | Remote | — |  |
-| **Aquila Software** | [QA Manager, EPIC Loan Systems](https://jobseveryhour.com/job/qa-manager-epic-loan-systems-aquila-software/) | Toronto, Ontario, Canada · Remote | CA$130K - CA$150K |  |
-| **CAST Software** | [Automation Test Engineer for Imaging Cloud Saas](https://jobseveryhour.com/job/automation-test-engineer-for-imaging-cloud-saas-cast-software/) | Bengaluru, Karnataka, India · Remote | — |  |
-| **Srijan Technologies PVT** | [Senior SDET - Automation](https://jobseveryhour.com/job/senior-sdet-automation-srijan-technologies-pvt/) | Gurugram, Haryana, India · Remote | — |  |
-| **Iohk** | [Software Test Engineer - Automated](https://jobseveryhour.com/job/software-test-engineer-automated-iohk/) | Remote - EU | — |  |
-| **ProphetX** | [Quality Assurance Engineer](https://jobseveryhour.com/job/quality-assurance-engineer-prophetx/) | New York · Remote | $80K - $120K |  |
-| **Cyclops** | [Senior QA Engineer (Remote)](https://jobseveryhour.com/job/senior-qa-engineer-remote-cyclops/) | Remote | — |  |
-| **CLEAResult** | [Commercial QA/QC Specialist](https://jobseveryhour.com/job/commercial-qa-qc-specialist-clearesult/) | Remote - Michigan; Battle Creek MI - Wayne Road | $49K - $66K | 2026-11-20 |
-| **Fortrea** | [QA Compliance Lead Auditor (GCP) North Carolina area Remote Based](https://jobseveryhour.com/job/qa-compliance-lead-auditor-gcp-north-carolina-area-remote-ba-fortrea/) | Durham; Remote North Carolina | $70K - $125K | 2026-11-20 |
-| **WonderBotz** | [RPA Solution Architect](https://jobseveryhour.com/job/rpa-solution-architect-wonderbotz/) | Remote | — |  |
-| **Intermedia Intelligent Communications** | [Core Systems Automation Engineer](https://jobseveryhour.com/job/core-systems-automation-engineer-intermedia-intelligent-communications/) | Georgia · Remote | — |  |
-| **In Tandem** | [Finance Automation Engineer](https://jobseveryhour.com/job/finance-automation-engineer-in-tandem/) | Minneapolis, Minnesota · Remote | $85K - $125K |  |
-| **Nationwide IT Services** | [Supply Chain Systems Process Integration Specialist - Senior](https://jobseveryhour.com/job/supply-chain-systems-process-integration-specialist-senior-nationwide-it-services/) | Remote | — | 2026-11-20 |
-| **Torrero** | [Account Integration Manager](https://jobseveryhour.com/job/account-integration-manager-torrero/) | Serbia · Remote | — | 2026-11-20 |
-| **Zealogics.com** | [Senior Data Architect - Fully Remote Opportunity](https://jobseveryhour.com/job/senior-data-architect-fully-remote-opportunity-zealogics-com/) | Remote | — |  |
-| **MetroSys** | [Senior AI Infrastructure & Data Center Architect](https://jobseveryhour.com/job/senior-ai-infrastructure-data-center-architect-metrosys/) | Remote | $100 - $125 an hour | 2026-11-20 |
-| **Harappa** | [Cloud Architect](https://jobseveryhour.com/job/cloud-architect-harappa/) | New Delhi, Delhi, India · Remote | — |  |
-| **Stratpoint** | [Solutions Architect](https://jobseveryhour.com/job/solutions-architect-stratpoint/) | Mandaluyong, Metro Manila, Philippines · Remote | — |  |
-| **Stratpoint** | [Cloud Solutions Architect](https://jobseveryhour.com/job/cloud-solutions-architect-stratpoint/) | Mandaluyong, Metro Manila, Philippines · Remote | — |  |
-| **CAST Software** | [Senior Consultant / Architect – AI-Driven Modernization (North America) (Engineering / Architecture → Customer Ownership)](https://jobseveryhour.com/job/senior-consultant-architect-ai-driven-modernization-north-am-cast-software/) | North East, New York, United States · Remote | — |  |
-| **Srijan Technologies PVT** | [Technical Lead/Architect - SRE DevOps](https://jobseveryhour.com/job/technical-lead-architect-sre-devops-srijan-technologies-pvt/) | Gurgaon · Remote | — |  |
 
 ## More
 
