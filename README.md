@@ -2,7 +2,7 @@
 
 Remote software engineering jobs at companies hiring now: backend, frontend, full stack, mobile and platform roles. Check each job for the countries or time zones it accepts.
 
-**11,384 open right now · updated 2026-11-24.** The list below shows the 300 newest. Jobs come from
+**11,382 open right now · updated 2026-11-25.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/remote/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,42 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Daydream** | [DayDream Claim Specialist Team Lead](https://jobseveryhour.com/job/daydream-claim-specialist-team-lead-daydream/) | Remote | $70K - $90K | 2026-11-25 |
+| **Sumo Logic** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-sumo-logic/) | Remote USA | $213K - $250K | 2026-11-24 |
+| **Docker** | [Senior Principal Forward Deployed Engineer](https://jobseveryhour.com/job/senior-principal-forward-deployed-engineer-docker/) | United States · Remote | $219K - $352K | 2026-11-25 |
+| **Instacart** | [Senior Staff Software Engineer, AI Productivity](https://jobseveryhour.com/job/senior-staff-software-engineer-ai-productivity-instacart/) | United States - Remote | $254K - $321K | 2026-11-24 |
+| **GoFasti** | [1208 - .Net Developer](https://jobseveryhour.com/job/1208-net-developer-gofasti/) | Remote | — | 2026-11-24 |
+| **Newfire Global Partners** | [Manager, Software Engineering](https://jobseveryhour.com/job/manager-software-engineering-newfire-global-partners/) | Boston, Massachusetts · Remote | $145K - $174K |  |
+| **Tabby** | [Senior Backend Engineer](https://jobseveryhour.com/job/senior-backend-engineer-tabby/) | Belgrade · Remote | — |  |
+| **Tabby** | [Senior Flutter Engineer](https://jobseveryhour.com/job/senior-flutter-engineer-tabby/) | Belgrade · Remote | — |  |
+| **Leap Brands** | [Solution Architect - Retail](https://jobseveryhour.com/job/solution-architect-retail-leap-brands/) | Remote | — |  |
+| **Kyndryl** | [Oracle ERP Cloud Functional Consultant](https://jobseveryhour.com/job/oracle-erp-cloud-functional-consultant-kyndryl/) | Durham, NC, USA · Remote | $115K - $219K | 2026-11-25 |
+| **GoFasti** | [1207 - QA Automation](https://jobseveryhour.com/job/1207-qa-automation-gofasti/) | Remote | — | 2026-11-24 |
+| **Adaption** | [Developer Community Lead](https://jobseveryhour.com/job/developer-community-manager-contract-adaption/) | United States · Remote | — | 2026-11-24 |
+| **Instacart** | [Senior Salesforce Developer](https://jobseveryhour.com/job/senior-salesforce-developer-instacart/) | Canada - Remote (ON, AB, BC, or NS Only) | CA$148K - CA$156K | 2026-11-24 |
+| **Helius** | [Senior Platform Engineer, Infrastructure](https://jobseveryhour.com/job/senior-platform-engineer-infrastructure-helius/) | North America · Remote | — | 2026-11-24 |
+| **Instacart** | [Staff Software Engineer, Developer Experience](https://jobseveryhour.com/job/staff-software-engineer-developer-experience-instacart/) | Canada - Remote (ON, AB, BC, or NS Only) | CA$229K - CA$242K | 2026-11-24 |
+| **CircleCI** | [Director, Engineering](https://jobseveryhour.com/job/director-engineering-circleci/) | Remote UK, Remote Canada, Remote US | CA$215K - CA$295K | 2026-11-24 |
+| **Super.com** | [Data Engineering Intern](https://jobseveryhour.com/job/data-engineering-intern-super-com/) | Canada · Remote | CA$20 - CA$39 an hour | 2026-11-24 |
+| **Temporal** | [Senior Solutions Architect, Scale](https://jobseveryhour.com/job/senior-solutions-architect-scale-temporal/) | United States (Remote) | $140K - $184K | 2026-11-24 |
+| **Helius** | [Senior Rust Engineer, Privacy](https://jobseveryhour.com/job/senior-rust-engineer-privacy-helius/) | North America · Remote | — | 2026-11-24 |
+| **Chainguard** | [Staff Technical Support Engineer - AMER](https://jobseveryhour.com/job/staff-technical-support-engineer-amer-chainguard/) | Canada - Remote; United States - Remote | $170K - $190K | 2026-11-24 |
+| **ACI Learning** | [Full Stack Web & eCommerce Engineer](https://jobseveryhour.com/job/full-stack-web-ecommerce-engineer-aci-learning/) | Remote | $106K - $124K | 2026-11-24 |
+| **Stitch Fix** | [Principal Full-Stack Data Scientist - Foundational Models](https://jobseveryhour.com/job/principal-full-stack-data-scientist-foundational-models-stitch-fix-2/) | Remote, USA | $200K - $237K | 2026-11-24 |
+| **Stitch Fix** | [Distinguished Architect](https://jobseveryhour.com/job/distinguished-architect-stitch-fix-2/) | Remote, USA | $184K - $306K | 2026-11-24 |
+| **ConvertKit** | [Senior Software Engineer II, Agentic Apps](https://jobseveryhour.com/job/senior-software-engineer-ii-agentic-apps-convertkit/) | Remote | $186K | 2026-11-24 |
+| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix-2/) | United States - Remote | $173K - $234K | 2026-11-24 |
+| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix/) | Mexico - Remote | — | 2026-11-24 |
+| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix-3/) | Canada - Remote | CA$173K - CA$218K | 2026-11-24 |
+| **Coder** | [Staff Solutions Engineer (US East)](https://jobseveryhour.com/job/staff-solutions-engineer-us-east-coder/) | United States · Remote | $175K - $264K | 2026-11-24 |
+| **Toast** | [Senior Software Engineer, Backend](https://jobseveryhour.com/job/senior-software-engineer-backend-toast/) | Remote - Canada | CA$125K - CA$175K | 2026-11-24 |
+| **Toast** | [Staff Software Engineer](https://jobseveryhour.com/job/staff-software-engineer-toast-3/) | Remote - Canada | CA$160K - CA$210K | 2026-11-24 |
+| **Forward Financing** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-forward-financing/) | Remote - United States | $200K - $250K | 2026-11-24 |
+| **Forward Financing** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-forward-financing-2/) | Remote - Ontario, Canada | CA$200K - CA$250K | 2026-11-24 |
+| **Cloudflare** | [Customer Engineering Manager](https://jobseveryhour.com/job/customer-engineering-manager-cloudflare/) | Remote Mexico | — | 2026-11-24 |
+| **Wealthsimple** | [Senior Software Developer, AI Platform](https://jobseveryhour.com/job/senior-software-developer-ai-platform-wealthsimple/) | Remote (Canada) | CA$152K - CA$189K | 2026-11-24 |
+| **Spellbook.com** | [Legal Solutions Architect, Post Sales](https://jobseveryhour.com/job/legal-solutions-architect-post-sales-spellbook-com/) | Remote - British Columbia | CA$128K - CA$157K | 2026-11-24 |
+| **Junipersquare** | [Staff Security Operations Engineer](https://jobseveryhour.com/job/staff-security-operations-engineer-junipersquare/) | Americas (USA or Canada) · Remote | CA$140K - CA$185K | 2026-11-24 |
 | **PathAI** | [Staff Site Reliability Engineer](https://jobseveryhour.com/job/staff-site-reliability-engineer-pathai/) | Boston or NYC (Preferred), Remote Considered | $146K - $225K | 2026-11-24 |
 | **Affinity.co** | [Senior Engineering Manager, Core](https://jobseveryhour.com/job/senior-engineering-manager-core-affinity-co/) | Canada · Remote | CA$196K - CA$245K | 2026-11-24 |
 | **Chiri** | [Product Design Engineer (Front-End / UX)](https://jobseveryhour.com/job/product-design-engineer-front-end-ux-chiri/) | Remote | — | 2026-11-24 |
@@ -19,32 +55,50 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Censys** | [Senior Engineering Manager, Exposure Management](https://jobseveryhour.com/job/senior-engineering-manager-exposure-management-censys/) | Remote (US/ Canada) | — | 2026-11-24 |
 | **Zscaler** | [Principal Speciality Sales Engineer - UK](https://jobseveryhour.com/job/principal-speciality-sales-engineer-uk-zscaler/) | Remote - UK | — | 2026-11-24 |
 | **Temporal** | [Senior Software Engineer, Compute (Temporal Cloud)](https://jobseveryhour.com/job/senior-software-engineer-compute-temporal-cloud-temporal/) | United States (Remote) | $141K - $231K | 2026-11-24 |
+| **Entisys Solutions** | [Principal Solutions Architect – AI, Applications & DevOps - Southern California Resident ONLY](https://jobseveryhour.com/job/principal-solutions-architect-ai-applications-devops-souther-entisys-solutions/) | Irvine, CA, USA · Remote | — | 2026-11-12 |
+| **Gaggle Net** | [Senior Salesforce Administrator](https://jobseveryhour.com/job/senior-salesforce-administrator-gaggle-net/) | United States · Remote | $110K - $140K | 2026-11-18 |
 | **Thunder** | [Federal Salesforce Developer - Agentforce Specialist](https://jobseveryhour.com/job/federal-salesforce-developer-agentforce-specialist-thunder-2/) | United States - Remote | $110K - $170K | 2026-11-24 |
 | **Lightspeed Commerce** | [Senior Software Developer](https://jobseveryhour.com/job/senior-software-developer-lightspeed-commerce/) | Montreal · Remote | — | 2026-11-24 |
+| **Tidal Financial** | [Software Engineer](https://jobseveryhour.com/job/software-engineer-tidal-financial/) | Remote (United States) | $110K - $125K | 2026-11-24 |
+| **Qdrant.tech** | [R&D Lead Engineer](https://jobseveryhour.com/job/r-d-lead-engineer-qdrant-tech/) | Remote - Americas | — | 2026-11-24 |
 | **GitLab** | [Senior Journey Architect](https://jobseveryhour.com/job/senior-journey-architect-gitlab-2/) | Remote, United States | $126K - $214K | 2026-11-24 |
 | **Dataiku** | [Sr Data Platform Engineer](https://jobseveryhour.com/job/sr-data-platform-engineer-dataiku/) | France, Remote; Spain, Remote; United Kingdom, Remote | — | 2026-11-24 |
 | **Shield AI** | [Staff Supplier Development Engineer, Munitions (6618)](https://jobseveryhour.com/job/staff-supplier-development-engineer-munitions-6618-shield-ai/) | Remote | $148K - $222K | 2026-11-24 |
+| **Pocket Worlds** | [3D Artist - Hotel Hideaway](https://jobseveryhour.com/job/3d-artist-hotel-hideaway-pocket-worlds/) | Remote: LATAM | — | 2026-11-24 |
+| **Fleetworthy** | [Senior Software Engineer (Python/Data)](https://jobseveryhour.com/job/senior-software-engineer-python-data-fleetworthy/) | Canada (Remote) | — | 2026-11-24 |
+| **K ID** | [Founding New Media Lead](https://jobseveryhour.com/job/founding-content-creator-k-id/) | United States · Remote | — | 2026-11-24 |
 | **Summit Therapeutics** | [Senior Specialist, QA (EU)](https://jobseveryhour.com/job/senior-specialist-qa-eu-summit-therapeutics/) | Dublin, Dublin, Ireland, Remote | — | 2026-11-24 |
+| **Marblehealth** | [Founding Account Executive, Districts (Remote, US)](https://jobseveryhour.com/job/founding-account-executive-districts-remote-us-marblehealth/) | Remote, USA | $160K - $225K | 2026-11-24 |
+| **VetsEZ** | [Senior Backend Engineer (Remote Opportunity)](https://jobseveryhour.com/job/senior-backend-engineer-remote-opportunity-vetsez/) | San Antonio, Texas, United States · Remote | — | 2026-10-28 |
 | **Kong** | [Staff Solutions Engineer](https://jobseveryhour.com/job/staff-solutions-engineer-kong-11/) | Spain · Remote | — | 2026-11-24 |
+| **Marblehealth** | [Founding Account Executive Lead, Districts (Remote, US)](https://jobseveryhour.com/job/founding-account-executive-lead-districts-remote-us-marblehealth/) | Remote, USA | $175K - $240K | 2026-11-24 |
+| **Brainstack** | [Full Stack Developer](https://jobseveryhour.com/job/full-stack-developer-brainstack/) | Remote job | — | 2026-11-24 |
 | **Anaplan** | [Solution Architect (Anaplan) m/f/d](https://jobseveryhour.com/job/solutions-architect-anaplan-anaplan/) | Remote, Germany | — | 2026-11-24 |
 | **SkyePoint Decisions** | [Automation Engineer](https://jobseveryhour.com/job/automation-engineer-skyepoint-decisions/) | Remote | — | 2026-11-24 |
 | **Abnormal Security** | [Enterprise Platform Engineer, EMEA](https://jobseveryhour.com/job/enterprise-platform-engineer-emea-abnormal-security/) | Remote - UK | — | 2026-11-24 |
 | **Prompt** | [Senior DevOps Engineer, Team Lead](https://jobseveryhour.com/job/senior-devops-engineer-team-lead-prompt/) | Remote | $230K - $265K | 2026-11-24 |
 | **Imprint** | [Email Developer & QA Specialist](https://jobseveryhour.com/job/email-developer-qa-specialist-imprint/) | Remote | $150K - $180K | 2026-11-24 |
 | **Qonto** | [Senior Product Engineer - iOS/Swift](https://jobseveryhour.com/job/senior-product-engineer-ios-swift-qonto-2/) | Paris, France · Remote | — | 2026-11-24 |
+| **SAOTA** | [Candidate Architect (2027 Intake)](https://jobseveryhour.com/job/candidate-architect-2027-intake-saota/) | South Africa · Remote | — | 2026-06-29 |
 | **Sardine** | [Software Engineer - Backend](https://jobseveryhour.com/job/software-engineer-backend-sardine/) | India · Remote | — | 2026-11-24 |
 | **Patrianna** | [Middle Automation QA Engineer](https://jobseveryhour.com/job/middle-automation-qa-engineer-patrianna/) | Ukraine · Remote | — | 2026-11-24 |
 | **Patrianna** | [Lead React Native Engineer](https://jobseveryhour.com/job/lead-react-native-engineer-patrianna/) | Poland · Remote | — | 2026-11-24 |
 | **Social Discovery** | [Senior CRM Manager](https://jobseveryhour.com/job/senior-crm-manager-social-discovery/) | Serbia; Georgia; Cyprus; Armenia · Remote | — | 2026-09-02 |
 | **Cosuno** | [GTM & Growth Engineer](https://jobseveryhour.com/job/gtm-growth-engineer-cosuno/) | Berlin/Remote | €70K - €90K | 2026-11-24 |
 | **Options It** | [Data Integration Architect](https://jobseveryhour.com/job/data-integration-architect-options-it/) | United States · Remote | — | 2026-11-24 |
+| **Genius Sports** | [Venue Operations Team Lead](https://jobseveryhour.com/job/venue-operations-team-lead-genius-sports-2/) | Remote - Spain | — | 2026-11-24 |
 | **AlphaSense India** | [Senior Software Engineer](https://jobseveryhour.com/job/senior-software-engineer-alphasense-india/) | Remote - India | — | 2026-11-24 |
 | **Playlab** | [Staff Applied AI Engineer](https://jobseveryhour.com/job/staff-applied-ai-engineer-playlab/) | Remote | — | 2026-11-24 |
+| **Joyteractive** | [Unity Tech Lead](https://jobseveryhour.com/job/unity-tech-lead-joyteractive/) | Poland · Remote | — | 2026-11-24 |
 | **Neuralconcept** | [Platform Engineer - Release and Distribution](https://jobseveryhour.com/job/platform-engineer-release-and-distribution-neuralconcept/) | Pune · Remote | — | 2026-11-24 |
 | **Neuralconcept** | [Platform Engineer - Security & Reliability](https://jobseveryhour.com/job/platform-engineer-security-reliability-neuralconcept/) | Pune · Remote | — | 2026-11-24 |
 | **Twilio** | [Presales Architect](https://jobseveryhour.com/job/presales-architect-twilio-2/) | Remote - Singapore | — | 2026-11-24 |
 | **Twilio** | [Presales Architect](https://jobseveryhour.com/job/presales-architect-twilio/) | Remote - Singapore | — | 2026-11-24 |
+| **Helpware** | [Middle Java Developer](https://jobseveryhour.com/job/middle-java-developer-helpware/) | Ukraine · Remote | — | 2026-11-23 |
+| **NewRocket** | [ServiceNow Solution Architect - AI](https://jobseveryhour.com/job/servicenow-solution-architect-ai-newrocket/) | Remote, India | — | 2026-11-24 |
 | **Cotiviti** | [Senior Software Engineer-.Net, VBA, MS SQL Server](https://jobseveryhour.com/job/senior-software-engineer-net-vba-ms-sql-server-cotiviti/) | Remote, US; Blue Bell, PA, US | $111K - $145K | 2026-11-24 |
+| **Kinaxis** | [Senior Software Developer, Tooling & Automation](https://jobseveryhour.com/job/senior-software-developer-tooling-automation-kinaxis/) | Remote, CA | — | 2026-11-24 |
+| **Kinaxis** | [Staff Software Developer, Intelligence & Automation](https://jobseveryhour.com/job/staff-software-developer-intelligence-automation-kinaxis/) | Remote, CA | — | 2026-11-24 |
 | **Cotiviti** | [VP Engineering](https://jobseveryhour.com/job/vp-engineering-cotiviti/) | Remote, US | $215K - $268K | 2026-11-24 |
 | **LiveKit** | [Staff Compliance Engineer](https://jobseveryhour.com/job/staff-compliance-engineer-livekit/) | United States (Remote) | $230K - $275K | 2026-11-24 |
 | **Samsara** | [Sr. Software Engineer I](https://jobseveryhour.com/job/sr-software-engineer-i-samsara-2/) | Remote - Canada | CA$126K - CA$163K | 2026-11-23 |
@@ -57,6 +111,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Weekday AI** | [Software Developers](https://jobseveryhour.com/job/software-developers-weekday-ai/) | United States · Remote | — | 2026-11-24 |
 | **VivSoft Technologies** | [Software Engineer](https://jobseveryhour.com/job/software-engineer-vivsoft-technologies/) | Remote | $80K - $90K | 2026-11-24 |
 | **VivSoft Technologies** | [Software Engineer (Mid-Level)](https://jobseveryhour.com/job/software-engineer-mid-level-vivsoft-technologies/) | Remote | $110K - $120K | 2026-11-24 |
+| **Harris Computer** | [Senior Software Engineer, Applied AI](https://jobseveryhour.com/job/senior-software-engineer-applied-ai-harris-computer/) | Tennessee, United States; Remote - Kentucky (CST); Remote - Michigan | — | 2026-11-24 |
+| **Thomson Reuters** | [Senior Software Engineer](https://jobseveryhour.com/job/senior-software-engineer-thomson-reuters-4/) | Poland, Gdansk · Remote | — | 2026-11-24 |
 | **Codekeeper** | [Back End Engineer](https://jobseveryhour.com/job/back-end-engineer-codekeeper-2/) | Remote | — | 2026-11-24 |
 | **Weekday AI** | [Backend Engineer](https://jobseveryhour.com/job/backend-engineer-weekday-ai/) | India · Remote | — | 2026-11-24 |
 | **Weekday AI** | [Backend Engineer, AI Expert](https://jobseveryhour.com/job/backend-engineer-ai-expert-weekday-ai/) | United States · Remote | — | 2026-11-24 |
@@ -77,16 +133,42 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Bristol Myers Squibb** | [Associate Director of CMC - Quality Assurance](https://jobseveryhour.com/job/associate-director-of-cmc-quality-assurance-bristol-myers-squibb/) | Indianapolis - RayzeBio - IN; Remote - United States - US | $165K - $200K | 2026-11-24 |
 | **NeoPollard Interactive** | [iGaming QA Analyst – Temporary Position](https://jobseveryhour.com/job/igaming-qa-analyst-temporary-position-neopollard-interactive/) | Lansing, Michigan, United States · Remote | — |  |
 | **Avid Solutions** | [Automation Engineer - Hybrid](https://jobseveryhour.com/job/automation-engineer-hybrid-avid-solutions/) | Remote | — |  |
+| **United Auto Insurance** | [Senior Guidewire Integration Developer](https://jobseveryhour.com/job/senior-guidewire-integration-developer-united-auto-insurance/) | Remote | — | 2026-11-24 |
+| **GE HealthCare** | [Finance Integration Lead Icometrix](https://jobseveryhour.com/job/finance-integration-lead-icometrix-ge-healthcare/) | Remote | — | 2026-11-24 |
+| **Alten México** | [2039 Interiors Design & Release Engineer SR](https://jobseveryhour.com/job/2039-interiors-design-release-engineer-sr-alten-m-xico/) | Mexico · Remote | — | 2026-11-24 |
+| **GE Vernova** | [PLM Solutions Architect](https://jobseveryhour.com/job/plm-solutions-architect-ge-vernova/) | Remote | $128K - $213K | 2026-11-24 |
+| **DaCodes** | [Informatica IDMC Architect / Tech Lead (IICS) - Google Cloud Integration](https://jobseveryhour.com/job/informatica-idmc-architect-tech-lead-iics-google-cloud-integ-dacodes/) | Uruguay · Remote | — | 2026-11-24 |
+| **Kyndryl** | [Cloud Solutions Architect](https://jobseveryhour.com/job/cloud-solutions-architect-kyndryl/) | CIO KPop-Dallas (US152527); Somerset (KUS51679) Data Center · Remote | $144K - $273K | 2026-11-24 |
+| **Vibrant Emotional Health** | [Salesforce Architect](https://jobseveryhour.com/job/salesforce-architect-vibrant-emotional-health/) | Remote USA | $80K - $131K | 2026-11-24 |
+| **Arcsen** | [Technical Architect, Sitecore AI](https://jobseveryhour.com/job/technical-architect-sitecore-ai-arcsen/) | India · Remote | — | 2026-11-24 |
 | **GE Vernova** | [Principal Engineer - Technical and Planning Solutions](https://jobseveryhour.com/job/principal-engineer-technical-and-planning-solutions-ge-vernova/) | Remote; Remote; Remote | $113K - $189K | 2026-11-24 |
+| **Northrop Grumman** | [Principal Data Engineer - Insights & Intelligence (i2)](https://jobseveryhour.com/job/principal-data-engineer-insights-intelligence-i2-northrop-grumman/) | United States-Remote | $107K - $160K | 2026-11-24 |
+| **Northrop Grumman** | [Principal Data Scientist - Insights & Intelligence (i2)](https://jobseveryhour.com/job/principal-data-scientist-insights-intelligence-i2-northrop-grumman/) | United States-Remote | $118K - $176K | 2026-11-24 |
+| **General Motors** | [Staff AI/ML Engineer](https://jobseveryhour.com/job/staff-ai-ml-engineer-general-motors/) | Sunnyvale, California, United States of America; Remote - United States | $213K - $305K | 2026-11-24 |
+| **U.S. Bank** | [Principal z/OS Network Systems Engineer](https://jobseveryhour.com/job/principal-z-os-network-systems-engineer-u-s-bank/) | Remote, TX | $112K - $131K | 2026-11-24 |
 | **Guidehouse** | [Security Assessor / Analyst Technical Lead](https://jobseveryhour.com/job/security-assessor-analyst-technical-lead-guidehouse/) | US - MD, Hanover; US - Remote (Any location) | $113K - $188K | 2026-11-24 |
 | **Nasstar** | [1st Line NOC Team Lead](https://jobseveryhour.com/job/1st-line-noc-team-lead-nasstar/) | London, UK · Remote | — |  |
 | **Agilent Technologies** | [Solution Deployment and Engineering Manager](https://jobseveryhour.com/job/solution-deployment-and-engineering-manager-agilent-technologies/) | Malaysia-Remote Location; Thailand-Remote Location; Malaysia-Penang | — | 2026-11-24 |
 | **Weekday AI** | [SAP MM Consultant](https://jobseveryhour.com/job/sap-mm-consultant-weekday-ai/) | India · Remote | — | 2026-11-24 |
 | **Zillow** | [Senior Workday Analyst](https://jobseveryhour.com/job/senior-workday-analyst-zillow/) | Remote-USA | $130K - $208K | 2026-11-24 |
+| **RTX** | [DT SAP GTS Sales and Distribution Functional Senior Manager (Remote)](https://jobseveryhour.com/job/dt-sap-gts-sales-and-distribution-functional-senior-manager-rtx/) | US-CT-REMOTE | — | 2026-11-24 |
+| **RTX** | [Sr. Principal Specialist, Business Systems & Transformation (REMOTE)](https://jobseveryhour.com/job/sr-principal-specialist-business-systems-transformation-remo-rtx/) | US-TX-REMOTE | — | 2026-11-24 |
+| **Highmark Health** | [Healthcare .NET Senior Application Developer - HNAS](https://jobseveryhour.com/job/healthcare-net-senior-application-developer-hnas-highmark-health/) | PA, Working at Home - Pennsylvania · Remote | — | 2026-11-24 |
+| **Centene** | [Business Analyst II Excel, SQL](https://jobseveryhour.com/job/business-analyst-ii-excel-sql-centene/) | Remote-FL; Remote-MO; Remote-NC | $56K - $101K | 2026-11-24 |
+| **Fortrea** | [Senior Statistical SAS Programmer - Multi Sponsor](https://jobseveryhour.com/job/senior-statistical-sas-programmer-multi-sponsor-fortrea/) | Maidenhead; Remote Poland; Remote Slovakia | — | 2026-11-24 |
+| **Fortrea** | [SAS Statistical Programmer II - Multi Sponsor](https://jobseveryhour.com/job/sas-statistical-programmer-ii-multi-sponsor-fortrea/) | Maidenhead; Remote Poland; Remote Slovakia | — | 2026-11-24 |
+| **Fortrea** | [Principal Statistical SAS Programmer - Multi Sponsor](https://jobseveryhour.com/job/principal-statistical-sas-programmer-multi-sponsor-fortrea/) | Remote United Kingdom; Remote Poland; Remote Slovakia | — | 2026-11-24 |
 | **Intermedia Intelligent Communications** | [Sr. Platform Engineer](https://jobseveryhour.com/job/sr-platform-engineer-intermedia-intelligent-communications-3/) | Bristol, United Kingdom · Remote | — |  |
 | **HCSC** | [Sr. Infrastructure Engineer - Teradata](https://jobseveryhour.com/job/sr-infrastructure-engineer-teradata-hcsc/) | National Remote | $84K - $152K | 2026-11-24 |
+| **Humana** | [Senior Platform Engineer - NBA](https://jobseveryhour.com/job/senior-platform-engineer-nba-humana/) | Remote Nationwide | $107K - $147K | 2026-11-24 |
+| **SI Solutions** | [Engineering Director, TRU Compliance](https://jobseveryhour.com/job/engineering-director-tru-compliance-si-solutions/) | Remote | $125K - $185K | 2026-11-24 |
+| **Centene** | [Vice President, Engineering - Member Management](https://jobseveryhour.com/job/vice-president-engineering-member-management-centene/) | Remote-MO; Remote-TX | $207K - $392K | 2026-11-24 |
+| **Ethos Life** | [Staff Software Engineer](https://jobseveryhour.com/job/staff-software-engineer-ethos-life/) | Remote US | $156K - $275K | 2026-11-23 |
+| **Enchanted Rock Management** | [Principal Electrical Engineer](https://jobseveryhour.com/job/principal-electrical-engineer-enchanted-rock-management/) | Houston, TX, USA · Remote | — | 2026-11-23 |
+| **Matx** | [AI Chip Architect](https://jobseveryhour.com/job/ai-chip-architect-matx/) | Mountain View (HQ) or Remote | $160K - $275K | 2026-11-23 |
 | **Fira Health** | [Home Health Quality Assurance RN, Remote](https://jobseveryhour.com/job/home-health-quality-assurance-rn-remote-fira-health/) | DFW · Remote | — | 2026-11-23 |
 | **Sparrow** | [Senior Engineering Manager](https://jobseveryhour.com/job/senior-engineering-manager-sparrow/) | US Remote | $180K - $220K | 2026-11-23 |
+| **VetsEZ** | [Senior DevSecOps Integration Engineer (Remote Opportunity)](https://jobseveryhour.com/job/senior-devsecops-integration-engineer-remote-opportunity-vetsez/) | Dallas, Texas, United States · Remote | — | 2026-07-15 |
 | **15Five** | [Senior AI Platform Engineer](https://jobseveryhour.com/job/senior-ai-platform-engineer-15five/) | US, Remote | $112K - $160K | 2026-11-23 |
 | **Ping Identity** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-ping-identity/) | USA - Remote | $150K - $170K | 2026-11-23 |
 | **Horizon3ai** | [Engineering Manager, Reliability Tools](https://jobseveryhour.com/job/engineering-manager-reliability-tools-horizon3ai/) | US, Remote | $220K - $260K | 2026-11-23 |
@@ -108,9 +190,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Cribl** | [Staff Software Engineer, Control Plane](https://jobseveryhour.com/job/staff-software-engineer-control-plane-cribl/) | Remote - United States | $200K - $240K | 2026-11-23 |
 | **Instacart** | [Senior Software Engineer II, Pricing & Incentives (Fulfillment)](https://jobseveryhour.com/job/senior-software-engineer-ii-pricing-incentives-fulfillment-instacart/) | United States - Remote | $192K - $242K | 2026-11-23 |
 | **Myriad360** | [Senior Client Solution Architect - Georgia (Remote)](https://jobseveryhour.com/job/senior-client-solution-architect-georgia-remote-myriad360/) | Remote - Georgia | $250K - $300K | 2026-11-23 |
-| **Smartsheet** | [Software Engineer II, AI Experience (Remote Eligible)](https://jobseveryhour.com/job/software-engineer-ii-ai-experience-remote-eligible-smartsheet/) | -REMOTE, USA- | $125K - $175K | 2026-11-23 |
+| **Smartsheet** | [Software Engineer II, AI Experience (Remote Eligible)](https://jobseveryhour.com/job/software-engineer-ii-ai-experience-remote-eligible-smartsheet/) | REMOTE, USA | $125K - $175K | 2026-11-23 |
 | **TeamViewer Germany GmbH** | [Senior Solutions Architect](https://jobseveryhour.com/job/senior-solutions-architect-teamviewer-germany-gmbh-2/) | Remote | — | 2026-11-23 |
-| **Smartsheet** | [Senior Software Engineer I, Agent Engineering (Remote Eligible)](https://jobseveryhour.com/job/senior-software-engineer-i-agent-engineering-remote-eligible-smartsheet/) | -REMOTE, USA- | $145K - $210K | 2026-11-23 |
+| **Smartsheet** | [Senior Software Engineer I, Agent Engineering (Remote Eligible)](https://jobseveryhour.com/job/senior-software-engineer-i-agent-engineering-remote-eligible-smartsheet/) | REMOTE, USA | $145K - $210K | 2026-11-23 |
 | **Revamp Engineering** | [Associate Principal Electrical Engineer – Interconnection Studies](https://jobseveryhour.com/job/associate-principal-electrical-engineer-interconnection-stud-revamp-engineering/) | United States; Canada · Remote | $182K - $203K | 2026-09-24 |
 | **Voyager Technologies, Inc.** | [Software Engineer – Agentic Computational Engineering](https://jobseveryhour.com/job/software-engineer-agentic-computational-engineering-voyager-technologies-inc/) | Remote | $140K - $180K | 2026-11-23 |
 | **Voyager Technologies, Inc.** | [Staff Software Engineer – Agentic Platform Core](https://jobseveryhour.com/job/staff-software-engineer-agentic-platform-core-voyager-technologies-inc/) | Remote | $180K - $230K | 2026-11-23 |
@@ -146,15 +228,20 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **CompQsoft Inc. - ACTIVE** | [Salesforce Developer](https://jobseveryhour.com/job/salesforce-developer-compqsoft-inc-active/) | Silver Spring, MD, USA · Remote | $110K - $130K | 2026-11-23 |
 | **Patrianna** | [Engineering Manager (Payments)](https://jobseveryhour.com/job/engineering-manager-payments-patrianna/) | Poland · Remote | — | 2026-11-23 |
 | **Supabase** | [Software Engineer - Interfaces Backend](https://jobseveryhour.com/job/software-engineer-interfaces-backend-supabase/) | Remote, Global | — | 2026-11-23 |
+| **Cardata** | [Full-Stack Software Engineer, Integrations](https://jobseveryhour.com/job/full-stack-software-engineer-integrations-cardata/) | Canada - Remote | CA$130K - CA$150K | 2026-11-23 |
 | **Wikimedia** | [Staff Site Reliability Engineer](https://jobseveryhour.com/job/staff-site-reliability-engineer-wikimedia/) | Remote | — | 2026-11-23 |
+| **Tanium** | [Senior Software Engineer -Full-stack Cloud Operations](https://jobseveryhour.com/job/senior-software-engineer-full-stack-cloud-operations-tanium/) | Remote, Canada | CA$154K - CA$236K | 2026-11-23 |
 | **Voize** | [Senior Backend Engineer (m/f/d) - English speaking](https://jobseveryhour.com/job/senior-backend-engineer-m-f-d-english-speaking-voize/) | Berlin · Remote | — | 2026-11-23 |
 | **‎ConnectWise** | [Senior Software Engineering Manager](https://jobseveryhour.com/job/senior-software-engineering-manager-connectwise/) | US, Remote | — | 2026-11-23 |
+| **Helpware** | [Senior Java Developer](https://jobseveryhour.com/job/senior-java-developer-cobol-helpware/) | Guadalahara, Mexico; Brasilia, Brazil; Buenos Aires, Argentina · Remote | — | 2026-06-02 |
 | **Certifyos** | [Staff Software Engineer](https://jobseveryhour.com/job/staff-software-engineer-certifyos/) | Bengaluru, India · Remote | — | 2026-11-23 |
 | **Qonto** | [Senior Product Engineer - Android/Kotlin](https://jobseveryhour.com/job/senior-android-engineer-ai-agents-qonto/) | Paris, France · Remote | — | 2026-11-23 |
 | **Affirm** | [Senior Software Engineer, Back-end, (Fraud)](https://jobseveryhour.com/job/senior-software-engineer-back-end-fraud-affirm-4/) | Remote Spain | €86K - €122K | 2026-11-23 |
 | **Affirm** | [Senior Software Engineer, Back-end (Fraud)](https://jobseveryhour.com/job/senior-software-engineer-back-end-fraud-affirm-3/) | Remote Poland | — | 2026-11-23 |
 | **Sensor Tower** | [Mid/Senior Backend Engineer - Ruby](https://jobseveryhour.com/job/mid-senior-backend-engineer-ruby-sensor-tower-3/) | Krakow, Poland · Remote | — | 2026-11-23 |
 | **Lemlist** | [Founding Product Manager - Claap](https://jobseveryhour.com/job/founding-product-manager-claap-lemlist/) | European Union · Remote | — | 2026-11-23 |
+| **Planet** | [Senior Solutions Architect I, Pre-Sales - UK Defence & Intelligence](https://jobseveryhour.com/job/senior-solutions-architect-i-pre-sales-uk-defence-intelligen-planet/) | United Kingdom, Remote | £65K - £81K | 2026-11-23 |
+| **Lindus** | [Data Architect](https://jobseveryhour.com/job/data-architect-lindus-2/) | US · Remote | — | 2026-11-23 |
 | **Docplanner** | [Senior Platform Engineer, Core Platform Team (100% Remote within Spain)](https://jobseveryhour.com/job/senior-platform-engineer-core-platform-team-100-remote-withi-docplanner/) | Barcelona · Remote | — | 2026-11-23 |
 | **SD Solutions** | [WaterTech Client #1, Senior 3D Plant Designer / Plant 3D Lead](https://jobseveryhour.com/job/watertech-client-1-senior-3d-plant-designer-plant-3d-lead-sd-solutions/) | Warsaw, Poland · Remote | — | 2026-11-13 |
 | **Patrianna** | [Lead Frontend Engineer](https://jobseveryhour.com/job/lead-frontend-engineer-patrianna/) | Poland · Remote | — | 2026-11-23 |
@@ -223,93 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Bjakcareer** | [Android Developer](https://jobseveryhour.com/job/android-developer-bjakcareer-18/) | Poland · Remote | — | 2026-11-23 |
 | **Bjakcareer** | [Android Developer](https://jobseveryhour.com/job/android-developer-bjakcareer-10/) | Seoul, Korea · Remote | — | 2026-11-23 |
 | **Bjakcareer** | [Android Developer](https://jobseveryhour.com/job/android-developer-bjakcareer-12/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer](https://jobseveryhour.com/job/android-developer-bjakcareer-23/) | Portugal · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer](https://jobseveryhour.com/job/android-developer-bjakcareer-22/) | Ireland · Remote | — | 2026-11-23 |
-| **Sensor Tower** | [Mid/Senior Backend Engineer - Ruby](https://jobseveryhour.com/job/mid-senior-backend-engineer-ruby-sensor-tower-2/) | Lisbon, Portugal · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-32/) | Spain · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-33/) | Sweden · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-2/) | Sydney, Australia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-11/) | Indonesia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-25/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-23/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-21/) | Seoul, Korea · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-34/) | Thailand · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-27/) | Poland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-36/) | Vietnam · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-35/) | United States · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-18/) | Ireland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-28/) | Portugal · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-30/) | Singapore · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-9/) | Hong Kong · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-7/) | Germany · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-6/) | China · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Android Developer - AI Finance Agent](https://jobseveryhour.com/job/android-developer-ai-finance-agent-bjakcareer-5/) | Austria · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-23/) | Portugal · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-22/) | Ireland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-20/) | United States · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-19/) | Poland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer/) | Sweden · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-15/) | India · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-10/) | China · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-18/) | Germany · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-12/) | Hong Kong · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-14/) | Vietnam · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-2/) | Austria · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-21/) | Spain · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-7/) | Indonesia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-8/) | Thailand · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-9/) | Singapore · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-11/) | Seoul, Korea · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-13/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-17/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer](https://jobseveryhour.com/job/ios-developer-bjakcareer-16/) | Sydney, Australia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-28/) | Vietnam · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-10/) | Tokyo, Japan · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-8/) | Ireland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-7/) | Indonesia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-17/) | Spain · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-18/) | Singapore · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-19/) | Sweden · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-27/) | United States · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-23/) | Thailand · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-15/) | Poland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-16/) | Portugal · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-14/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-13/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-5/) | Hong Kong · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-4/) | Germany · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-3/) | China · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer-2/) | Austria · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [iOS Developer - AI Finance Agent](https://jobseveryhour.com/job/ios-developer-ai-finance-agent-bjakcareer/) | Sydney, Australia · Remote | — | 2026-11-23 |
-| **Airwallex** | [Senior Software Engineer, Risk](https://jobseveryhour.com/job/senior-software-engineer-risk-airwallex-2/) | US - Seattle · Remote | $158K - $270K | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-10/) | Vietnam · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-9/) | Poland · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-5/) | India · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-3/) | Hong Kong · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-8/) | Germany · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-2/) | China · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-6/) | Sydney, Australia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-4/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer](https://jobseveryhour.com/job/mobile-developer-bjakcareer-7/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-3/) | Tokyo, Japan · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-6/) | Thailand · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-7/) | Singapore · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-5/) | Indonesia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-11/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-10/) | Sweden · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-9/) | Philippines · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-8/) | Seoul, Korea · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Developer - AI Finance Agent](https://jobseveryhour.com/job/mobile-developer-ai-finance-agent-bjakcareer-12/) | United States · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-9/) | Austria · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-12/) | Germany · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-11/) | China · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-5/) | Sydney, Australia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-23/) | Vietnam · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-3/) | Netherlands · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-8/) | Singapore · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-17/) | Thailand · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-20/) | Indonesia · Remote | — | 2026-11-23 |
-| **Bjakcareer** | [Mobile Engineer](https://jobseveryhour.com/job/mobile-engineer-bjakcareer-13/) | Hong Kong · Remote | — | 2026-11-23 |
 
 ## More
 
