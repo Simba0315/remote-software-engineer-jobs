@@ -2,7 +2,7 @@
 
 Remote software engineering jobs at companies hiring now: backend, frontend, full stack, mobile and platform roles. Check each job for the countries or time zones it accepts.
 
-**11,269 open right now · updated 2026-11-27.** The list below shows the 300 newest. Jobs come from
+**11,280 open right now · updated 2026-11-27.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/remote/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,10 +10,31 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Conveo** | [Sales Team Lead (USA)](https://jobseveryhour.com/job/sales-team-lead-usa-conveo/) | New York · Remote | $150K - $200K | 2026-11-27 |
+| **Affirm** | [Senior Software Engineer, Backend (Trust Infra)](https://jobseveryhour.com/job/senior-software-engineer-backend-trust-infra-affirm/) | Remote Canada | CA$153K - CA$213K | 2026-11-27 |
+| **Affirm** | [Senior Software Engineer, Backend (Trust Infra)](https://jobseveryhour.com/job/senior-software-engineer-backend-trust-infra-affirm-2/) | Remote US | $195K - $255K | 2026-11-27 |
+| **Redis** | [Senior C/C++ Software Engineer](https://jobseveryhour.com/job/senior-c-c-software-engineer-redis/) | Bulgaria · Remote | — | 2026-11-27 |
+| **Kraken** | [Senior Software Engineer - Frontend - Developer Platform](https://jobseveryhour.com/job/senior-software-engineer-frontend-developer-platform-kraken/) | Poland · Remote | — | 2026-11-27 |
+| **Pennylane** | [Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Marseille)](https://jobseveryhour.com/job/associate-team-lead-support-financial-services-n2-chef-fe-d-pennylane-3/) | Marseille · Remote | — | 2026-11-27 |
 | **Veriforce** | [Software Developer (.NETCore and React)](https://jobseveryhour.com/job/software-developer-netcore-and-react-veriforce-2/) | Ontario · Remote | — |  |
+| **NVIDIA** | [Senior Software Engineer — Parking for Autonomous Vehicles](https://jobseveryhour.com/job/senior-software-engineer-parking-for-autonomous-vehicles-nvidia/) | Germany, Remote | — | 2026-11-27 |
+| **NVIDIA** | [Senior Software Engineer — Active Safety for Autonomous Vehicles](https://jobseveryhour.com/job/senior-software-engineer-active-safety-for-autonomous-vehicl-nvidia/) | Germany, Remote | — | 2026-11-27 |
+| **Dev.Pro** | [Senior Software Engineer (Next.js/Express/TypeScript) - OP02327](https://jobseveryhour.com/job/senior-software-engineer-next-js-express-typescript-op02327-dev-pro/) | Bogotá, Bogota, Colombia · Remote | — | 2026-11-27 |
+| **Weekday AI** | [Backend Developer](https://jobseveryhour.com/job/backend-developer-weekday-ai/) | India · Remote | — | 2026-11-27 |
+| **NVIDIA** | [Senior Product Engineer - Board Products](https://jobseveryhour.com/job/senior-product-engineer-board-products-nvidia-4/) | Vietnam, Remote | — | 2026-11-27 |
+| **Weekday AI** | [Game Designer, AI Expert](https://jobseveryhour.com/job/game-designer-ai-expert-weekday-ai/) | United States · Remote | $80 - $110 an hour | 2026-11-27 |
+| **Pfizer** | [Medical Communications and Content Solutions, Creative Graphics Designer Manager](https://jobseveryhour.com/job/medical-communications-and-content-solutions-creative-graphi-pfizer/) | India - Remote | — | 2026-11-27 |
+| **Weekday AI** | [3D Creative Technologist, AI Expert](https://jobseveryhour.com/job/3d-creative-technologist-ai-expert-weekday-ai/) | United States · Remote | $80 - $110 an hour | 2026-11-27 |
+| **Yellow Card Financial** | [Quality Assurance Analyst](https://jobseveryhour.com/job/quality-assurance-analyst-yellow-card-financial/) | Remote | — | 2026-11-27 |
+| **Lupus Consulting Zrt** | [Senior SAP PLM Consultant](https://jobseveryhour.com/job/senior-sap-plm-consultant-lupus-consulting-zrt/) | Remote | — | 2026-11-27 |
+| **Emergn** | [Angular Developer](https://jobseveryhour.com/job/angular-developer-emergn/) | Portugal - Nationwide · Remote | — |  |
+| **Emergn** | [Senior Angular Developer](https://jobseveryhour.com/job/senior-angular-developer-emergn/) | Portugal - Nationwide · Remote | — |  |
+| **Fortrea** | [Statistical Programming Opportunities – SP II / Senior / Principal](https://jobseveryhour.com/job/statistical-programming-opportunities-sp-ii-senior-principal-fortrea/) | Warsaw; Remote Poland; Remote Slovakia | — | 2026-11-27 |
 | **GitLab** | [Enterprise Applications Engineer, Zendesk](https://jobseveryhour.com/job/enterprise-applications-engineer-zendesk-gitlab/) | Remote, United States | $86K - $146K | 2026-11-26 |
 | **Lavendo** | [Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto)](https://jobseveryhour.com/job/staff-software-engineer-legal-ai-sf-nyc-chicago-toronto-lavendo/) | San Francisco · Remote | $231K - $340K | 2026-11-26 |
+| **Loopio** | [Senior Software Developer](https://jobseveryhour.com/job/senior-software-developer-loopio-2/) | Toronto, ON Hub · Remote | CA$125K - CA$167K | 2026-11-26 |
 | **ClickHouse** | [Senior Backend Engineer - ClickPipes Platform](https://jobseveryhour.com/job/senior-backend-engineer-clickpipes-platform-clickhouse-3/) | Germany · Remote | $147K - $238K | 2026-11-26 |
+| **Jerry.ai** | [Staff Data Scientist (growth-stage startup)](https://jobseveryhour.com/job/staff-data-scientist-growth-stage-startup-jerry-ai/) | New York, New York · Remote | $200K - $230K | 2026-11-26 |
 | **Lambda** | [VP, Engineering - Data Center Design](https://jobseveryhour.com/job/vp-engineering-data-center-design-lambda/) | Remote, USA | $400K - $500K | 2026-11-26 |
 | **Stensul** | [Senior Full Stack Product Engineer (Software Engineer)](https://jobseveryhour.com/job/senior-full-stack-product-engineer-software-engineer-stensul/) | argentina · Remote | — | 2026-11-26 |
 | **Qonto** | [Senior Android Engineer - AI Product](https://jobseveryhour.com/job/senior-android-engineer-ai-agents-qonto/) | Paris, France · Remote | — | 2026-11-26 |
@@ -21,9 +42,21 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Inato** | [Product Engineer](https://jobseveryhour.com/job/product-engineer-inato/) | PARIS OFFICE or REMOTE FROM FRANCE | €45K - €65K | 2026-11-26 |
 | **Oviva** | [Team Lead Sales (a)](https://jobseveryhour.com/job/team-lead-sales-a-oviva/) | Remote Germany | — | 2026-11-26 |
 | **Synthesia** | [Staff SecOps Security Engineer](https://jobseveryhour.com/job/secops-security-engineer-staff-level-l6-synthesia/) | US Remote | $150K - $300K | 2026-11-26 |
+| **Patrianna** | [AI Native QA Engineer](https://jobseveryhour.com/job/ai-native-qa-engineer-patrianna/) | Ukraine · Remote | — | 2026-11-26 |
+| **Truelogic** | [Semi-Senior Full-stack Engineer - Technology](https://jobseveryhour.com/job/semi-senior-full-stack-engineer-technology-truelogic/) | LatAm · Remote | — | 2026-11-26 |
+| **Truelogic** | [Sr. Mobile Engineer (iOS and Android) - Travel Industry](https://jobseveryhour.com/job/sr-mobile-engineer-ios-and-android-travel-industry-truelogic-4/) | Brazil · Remote | — | 2026-11-26 |
+| **Truelogic** | [Sr. Mobile Engineer (iOS and Android) - Travel Industry](https://jobseveryhour.com/job/sr-mobile-engineer-ios-and-android-travel-industry-truelogic-3/) | Mexico City · Remote | — | 2026-11-26 |
+| **Truelogic** | [Sr. Mobile Engineer (iOS and Android) - Travel Industry](https://jobseveryhour.com/job/sr-mobile-engineer-ios-and-android-travel-industry-truelogic-2/) | Bogota · Remote | — | 2026-11-26 |
+| **Truelogic** | [Senior Back-End Engineer (.NET/Azure) - Creative, Media & Social (Colombia)](https://jobseveryhour.com/job/senior-back-end-engineer-net-azure-creative-media-social-col-truelogic/) | Bogota · Remote | — | 2026-11-26 |
+| **Truelogic** | [Senior Back-End Engineer (.NET/Azure) - Creative, Media & Social (Brazil)](https://jobseveryhour.com/job/senior-back-end-engineer-net-azure-creative-media-social-bra-truelogic/) | São Paulo · Remote | — | 2026-11-26 |
+| **Truelogic** | [Senior Back-End Engineer (.NET/Azure) - Creative, Media & Social (DR)](https://jobseveryhour.com/job/senior-back-end-engineer-net-azure-creative-media-social-dr-truelogic/) | Santo Domingo · Remote | — | 2026-11-26 |
+| **Truelogic** | [Senior Back-End Engineer (.NET/Azure) - Creative, Media & Social (Mexico)](https://jobseveryhour.com/job/senior-back-end-engineer-net-azure-creative-media-social-mex-truelogic/) | Mexico City · Remote | — | 2026-11-26 |
+| **Truelogic** | [Senior Back-End Engineer (.NET/Azure) - Creative, Media & Social (LATAM)](https://jobseveryhour.com/job/senior-back-end-engineer-net-azure-creative-media-social-lat-truelogic/) | LatAm · Remote | — | 2026-11-26 |
+| **Pennylane** | [Head of Website & Conversion](https://jobseveryhour.com/job/head-of-website-conversion-pennylane/) | All France (remote) | — | 2026-11-26 |
 | **zkSync / Matter Labs** | [Software Engineer, Node](https://jobseveryhour.com/job/software-engineer-node-zksync-matter-labs/) | United States · Remote | $150K - $187K | 2026-11-26 |
 | **LastPass** | [Senior Frontend Engineer](https://jobseveryhour.com/job/senior-frontend-engineer-lastpass/) | Remote - Hungary | — | 2026-11-26 |
 | **LastPass** | [Senior Frontend Engineer](https://jobseveryhour.com/job/senior-frontend-engineer-lastpass-2/) | Remote - Portugal | — | 2026-11-26 |
+| **Nuitée** | [Lead Front-End Engineer, Whitelabel](https://jobseveryhour.com/job/lead-front-end-engineer-whitelabel-nuit-e/) | Europe (remote) | — | 2026-11-26 |
 | **Supabase** | [Platform Engineer - Database](https://jobseveryhour.com/job/platform-engineer-database-supabase/) | Remote, EMEA | — | 2026-11-26 |
 | **Siena** | [Engineering Manager](https://jobseveryhour.com/job/engineering-manager-channels-platform-siena/) | Remote - Europe | $130K - $170K | 2026-11-26 |
 | **Wellhub** | [Staff Corporate Network Engineer, CorpIT](https://jobseveryhour.com/job/staff-corporate-network-engineer-corpit-wellhub/) | Brazil (Remote) | — | 2026-11-26 |
@@ -39,8 +72,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **M9 Solutions** | [Senior Salesforce Developer](https://jobseveryhour.com/job/senior-salesforce-developer-m9-solutions/) | Remote - Public Trust clearance required | $115K - $130K | 2026-11-25 |
 | **Dev.Pro** | [Senior Software Engineer (Angular, TypeScript, Node.js) - OP02343](https://jobseveryhour.com/job/senior-software-engineer-angular-typescript-node-js-op02343-dev-pro/) | Bucharest, Bucharest, Romania · Remote | — | 2026-11-26 |
 | **Savanta** | [Senior Software Engineer, Tech, Colombia](https://jobseveryhour.com/job/senior-software-engineer-tech-colombia-savanta/) | Colombia · Remote | — | 2026-11-26 |
+| **Zipdev** | [Senior/Staff Software Engineer, Security](https://jobseveryhour.com/job/senior-staff-software-engineer-security-zipdev/) | United States · Remote | — | 2026-11-26 |
 | **Helprise** | [Backend Engineer](https://jobseveryhour.com/job/backend-engineer-helprise/) | Warsaw, Masovian Voivodeship, Poland · Remote | — | 2026-11-26 |
-| **Drip Capital** | [Software Development Engineer I (Full Stack)](https://jobseveryhour.com/job/software-development-engineer-i-full-stack-drip-capital/) | Mumbai, Maharashtra, India · Remote | — |  |
 | **NVIDIA** | [Senior Product Engineer - Board Products](https://jobseveryhour.com/job/senior-product-engineer-board-products-nvidia-3/) | Vietnam, Remote | — | 2026-11-26 |
 | **NVIDIA** | [Local Product Engineer](https://jobseveryhour.com/job/local-product-engineer-nvidia/) | Vietnam, Remote | — | 2026-11-26 |
 | **Binary Stream** | [Quality Assurance Analyst](https://jobseveryhour.com/job/quality-assurance-analyst-binary-stream-2/) | India · Remote | — | 2026-11-26 |
@@ -84,7 +117,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Truelogic** | [Senior QA Automation Engineer - Real Estate](https://jobseveryhour.com/job/senior-qa-automation-engineer-real-estate-truelogic/) | LatAm · Remote | — | 2026-11-25 |
 | **Mozilla** | [Staff Performance Engineer, JavaScript Engine (SpiderMonkey)](https://jobseveryhour.com/job/staff-performance-engineer-javascript-engine-spidermonkey-mozilla-9/) | Remote Canada | CA$116K - CA$171K | 2026-11-25 |
 | **Clariti Cloud Inc.** | [Implementation QA Specialist](https://jobseveryhour.com/job/implementation-qa-specialist-clariti-cloud-inc/) | CANADA Remote | CA$88K - CA$110K | 2026-11-25 |
-| **Krakentech** | [Senior Full Stack Engineer](https://jobseveryhour.com/job/senior-full-stack-engineer-krakentech/) | Remote, UK | — | 2026-11-25 |
 | **Shield AI** | [Senior Staff Engineer, System Architect - GCS & Fleet Management](https://jobseveryhour.com/job/senior-staff-engineer-system-architect-gcs-fleet-management-shield-ai/) | Remote | $175K - $262K | 2026-11-25 |
 | **Dropzone AI** | [Principal Software Engineer - Core](https://jobseveryhour.com/job/principal-software-engineer-core-dropzone-ai/) | Remote - US | $180K - $200K | 2026-11-25 |
 | **Savvy** | [Senior Software Engineer (Remote LATAM)](https://jobseveryhour.com/job/senior-software-engineer-remote-latam-savvy/) | Latin America · Remote | — | 2026-11-25 |
@@ -142,7 +174,13 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **NVIDIA** | [Senior Software Engineer, DGX Cloud AI Infrastructure](https://jobseveryhour.com/job/senior-software-engineer-dgx-cloud-ai-infrastructure-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, OR, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior Software Engineer, Security](https://jobseveryhour.com/job/senior-software-engineer-security-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior Software Engineer, AI Performance Analysis](https://jobseveryhour.com/job/senior-software-engineer-ai-performance-analysis-nvidia/) | US, CA, Santa Clara; US, CA, Remote; US, OR, Hillsboro | — | 2026-11-25 |
-| **Tabby** | [Senior Backend Engineer II](https://jobseveryhour.com/job/senior-backend-engineer-tabby/) | Belgrade · Remote | — |  |
+| **NVIDIA** | [Senior Software Engineer, AI Frameworks](https://jobseveryhour.com/job/senior-software-engineer-ai-frameworks-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicles](https://jobseveryhour.com/job/senior-software-engineer-metrics-and-evaluation-autonomous-v-nvidia/) | US, CA, Santa Clara; US, GA, Remote; US, DC, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Principal System Software Engineer - Data Center MODS](https://jobseveryhour.com/job/principal-system-software-engineer-data-center-mods-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Software Developer, AI Networking](https://jobseveryhour.com/job/senior-software-developer-ai-networking-nvidia-3/) | Poland, Remote; Czechia, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior System Software Engineer - Dynamo-Triton Inference Server](https://jobseveryhour.com/job/senior-system-software-engineer-dynamo-triton-inference-serv-nvidia-2/) | US, CA, Santa Clara; US, CA, Remote; US, WA, Seattle | — | 2026-11-25 |
+| **NVIDIA** | [Senior DGX Cloud AI Infrastructure Software Engineer](https://jobseveryhour.com/job/senior-dgx-cloud-ai-infrastructure-software-engineer-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, OR, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Compiler Engineer - Backend GPU](https://jobseveryhour.com/job/senior-compiler-engineer-backend-gpu-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, TX, Remote | — | 2026-11-25 |
 | **Hitachi** | [Full Stack Developer (Data Center Assessment & Analytics)](https://jobseveryhour.com/job/full-stack-developer-data-center-assessment-analytics-hitachi/) | Lisbon, Lisbon, Portugal · Remote | — | 2026-11-25 |
 | **Petco** | [Amazon Connect Full Stack Developer](https://jobseveryhour.com/job/amazon-connect-full-stack-developer-petco/) | Remote - Mexico | — | 2026-11-25 |
 | **Weekday AI** | [Product Engineer (Full Stack)](https://jobseveryhour.com/job/product-engineer-full-stack-weekday-ai/) | India · Remote | — | 2026-11-25 |
@@ -160,6 +198,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **NVIDIA** | [Senior Performance Compiler Engineer - Triton](https://jobseveryhour.com/job/senior-performance-compiler-engineer-triton-nvidia/) | US, WA, Redmond; US, TX, Remote; US, WA, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior LLVM Compiler Engineer](https://jobseveryhour.com/job/senior-llvm-compiler-engineer-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, TX, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior Deep Learning Compiler Engineer](https://jobseveryhour.com/job/senior-deep-learning-compiler-engineer-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, TX, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Manager, Compiler Engineering](https://jobseveryhour.com/job/manager-compiler-engineering-nvidia/) | US, OR, Hillsboro; US, CA, Remote; US, CA, Santa Clara | — | 2026-11-25 |
+| **NVIDIA** | [Senior Compiler Engineer, AI Inference Platforms](https://jobseveryhour.com/job/senior-compiler-engineer-ai-inference-platforms-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, TX, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Raytracing Compiler Engineer - Developer and Performance Technology](https://jobseveryhour.com/job/raytracing-compiler-engineer-developer-and-performance-techn-nvidia/) | US, CA, Santa Clara; US, TX, Remote; US, OR, Remote | — | 2026-11-25 |
 | **GDIT** | [Test Automation Engineer - Senior](https://jobseveryhour.com/job/test-automation-engineer-senior-gdit/) | Any Location / Remote | $128K - $173K | 2026-11-25 |
 | **Leidos** | [Deployment Services & Field Integration Lead – Senior](https://jobseveryhour.com/job/deployment-services-field-integration-lead-senior-leidos/) | 6314 Remote/Teleworker US | $92K - $167K | 2026-11-25 |
 | **Dev.Pro** | [Payments Integration Specialist - OP02346](https://jobseveryhour.com/job/payments-integration-specialist-op02346-dev-pro/) | Sofia, Sofia City Province, Bulgaria · Remote | — | 2026-11-25 |
@@ -195,6 +236,20 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **MOCA Systems** | [Senior Design Manager (Owner's Representative / Architect)](https://jobseveryhour.com/job/senior-design-manager-owner-s-representative-architect-moca-systems-2/) | Remote | $115K - $145K | 2026-11-25 |
 | **GDIT** | [Senior SharePoint Administrator / Architect](https://jobseveryhour.com/job/senior-sharepoint-administrator-architect-gdit/) | Any Location / Remote | $136K - $184K | 2026-11-25 |
 | **NVIDIA** | [Principal Architect, System Software - Orbital Data Center](https://jobseveryhour.com/job/principal-architect-system-software-orbital-data-center-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Principal Architect, AI Networking](https://jobseveryhour.com/job/principal-architect-ai-networking-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, TX, Remote | — | 2026-11-25 |
+| **NVIDIA** | [AI Factory CPU focused Solutions Architect](https://jobseveryhour.com/job/ai-factory-cpu-focused-solutions-architect-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect, Retail](https://jobseveryhour.com/job/senior-solutions-architect-retail-nvidia/) | US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Principal Deep Learning Communication Architect](https://jobseveryhour.com/job/principal-deep-learning-communication-architect-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Architect](https://jobseveryhour.com/job/senior-architect-nvidia/) | US, CA, Remote; US, MA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect, AI Compute – NPN](https://jobseveryhour.com/job/senior-solutions-architect-ai-compute-npn-nvidia/) | US, CA, Remote; US, GA, Remote; US, DC, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect, Data Center Buildouts – NPN](https://jobseveryhour.com/job/senior-solutions-architect-data-center-buildouts-npn-nvidia/) | US, CA, Remote; US, GA, Remote; US, DC, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Product Architect, Storage](https://jobseveryhour.com/job/senior-product-architect-storage-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Lead Safety Architect - Autonomous Vehicles](https://jobseveryhour.com/job/lead-safety-architect-autonomous-vehicles-nvidia/) | US, CA, Santa Clara; US, DC, Remote; US, NC, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior GPU Functional Modeling Architect](https://jobseveryhour.com/job/senior-gpu-functional-modeling-architect-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect - AI Infrastructure](https://jobseveryhour.com/job/senior-solutions-architect-ai-infrastructure-nvidia-3/) | US, CA, Santa Clara; US, CA, Remote; US, NY, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect - AI Infrastructure](https://jobseveryhour.com/job/senior-solutions-architect-ai-infrastructure-nvidia-4/) | US, CA, Santa Clara; US, CA, Remote; US, NY, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Solutions Architect, Ethernet Networking](https://jobseveryhour.com/job/senior-solutions-architect-ethernet-networking-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Software Architect, AI Systems and Networking](https://jobseveryhour.com/job/senior-software-architect-ai-systems-and-networking-nvidia/) | US, CA, Santa Clara; US, TX, Austin; US, CA, Remote | — | 2026-11-25 |
 | **Leidos** | [Principal Cloud Network Engineer](https://jobseveryhour.com/job/principal-cloud-network-engineer-leidos/) | 6314 Remote/Teleworker US; Odenton, MD | $131K - $237K | 2026-11-25 |
 | **Northrop Grumman** | [Sr. Staff Chief Engineer - 6](https://jobseveryhour.com/job/sr-staff-chief-engineer-6-northrop-grumman/) | United States-Utah-Corinne; United States-Remote | $171K - $256K | 2026-11-25 |
 | **NVIDIA** | [Distinguished Engineer, Scaled Out Inferencing](https://jobseveryhour.com/job/distinguished-engineer-scaled-out-inferencing-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
@@ -202,11 +257,14 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **NVIDIA** | [Principal Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles](https://jobseveryhour.com/job/principal-perception-engineer-obstacle-foundation-models-aut-nvidia/) | US, CA, Santa Clara; US, CA, Remote; US, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Principal Data Scientist - Cloud Gaming and AI](https://jobseveryhour.com/job/principal-data-scientist-cloud-gaming-and-ai-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Principal Developer, AI Networking](https://jobseveryhour.com/job/principal-developer-ai-networking-nvidia/) | US, CA, Santa Clara; US, TX, Remote; US, CO, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Principal Cyber Security Engineer - Agentic Identity and Security](https://jobseveryhour.com/job/principal-cyber-security-engineer-agentic-identity-and-secur-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Distinguished Engineer - Rack Scale Architecture](https://jobseveryhour.com/job/distinguished-engineer-rack-scale-architecture-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **Mid Hudson Valley Federal Credit Union** | [Data Engineering & Analytics Technical Lead](https://jobseveryhour.com/job/data-engineering-analytics-technical-lead-mid-hudson-valley-federal-credit-union/) | Kingston, New York, United States · Remote | $84K - $127K | 2026-11-25 |
 | **NVIDIA** | [Engagement Tech Lead, Agentic AI](https://jobseveryhour.com/job/engagement-tech-lead-agentic-ai-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **Motorola Solutions** | [Coverage Test Center Senior Technical Lead](https://jobseveryhour.com/job/coverage-test-center-senior-technical-lead-motorola-solutions/) | Illinois Remote Work; North Carolina Remote Work; South Carolina Remote Work | $120K - $135K | 2026-11-25 |
 | **Savanta** | [Engineering Team Lead, Tech, Colombia](https://jobseveryhour.com/job/engineering-team-lead-tech-colombia-savanta/) | Colombia · Remote | — | 2026-11-25 |
 | **Zipdev** | [Founding AI Platform Engineer](https://jobseveryhour.com/job/founding-ai-platform-engineer-zipdev/) | United States · Remote | — | 2026-11-25 |
+| **Cushman & Wakefield** | [Regional Technical Engineering Manager](https://jobseveryhour.com/job/regional-technical-engineering-manager-cushman-wakefield/) | Sacramento, California, USA · Remote | $153K - $180K | 2026-11-25 |
 | **NVIDIA** | [Developer Relations Manager, Quantum Computing — National Labs and Federal](https://jobseveryhour.com/job/developer-relations-manager-quantum-computing-national-labs-nvidia/) | US, CA, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior Developer Relations Manager, AI Natives](https://jobseveryhour.com/job/senior-developer-relations-manager-ai-natives-nvidia/) | Sweden, Remote; Sweden, Lund; Sweden, Gothenburg | — | 2026-11-25 |
 | **NVIDIA** | [Developer Relations Manager, Computer Aided Engineering](https://jobseveryhour.com/job/developer-relations-manager-computer-aided-engineering-nvidia/) | France, Remote; France, Courbevoie; Germany, Remote | — | 2026-11-25 |
@@ -215,8 +273,10 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **NVIDIA** | [Developer Relations Manager, Energy Startups](https://jobseveryhour.com/job/developer-relations-manager-energy-startups-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Developer Relations Manager, Higher Education and Research - Physics](https://jobseveryhour.com/job/developer-relations-manager-higher-education-and-research-ph-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **NVIDIA** | [Senior Developer Relations Manager, Capital Markets](https://jobseveryhour.com/job/senior-developer-relations-manager-capital-markets-nvidia/) | US, NY, New York; US, NY, Remote; US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Retail Developer Relations Manager, Digital Commerce](https://jobseveryhour.com/job/senior-retail-developer-relations-manager-digital-commerce-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Developer Relations Manager - Omniverse](https://jobseveryhour.com/job/developer-relations-manager-omniverse-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
+| **NVIDIA** | [Senior Developer Relations Manager - Telecom](https://jobseveryhour.com/job/senior-developer-relations-manager-telecom-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **SAP Fioneer** | [SAP FS-CD Consultant (m/f/d)](https://jobseveryhour.com/job/sap-fs-cd-consultant-m-f-d-sap-fioneer/) | Austria · Remote | — | 2026-11-25 |
-| **Kyndryl** | [Oracle ERP Cloud Functional Consultant](https://jobseveryhour.com/job/oracle-erp-cloud-functional-consultant-kyndryl/) | Durham, NC, USA · Remote | $115K - $219K | 2026-11-25 |
 | **Productiv Team** | [Salesforce Consultant – Revenue Cloud & Commerce Cloud](https://jobseveryhour.com/job/salesforce-consultant-revenue-cloud-commerce-cloud-productiv-team/) | Remote | — | 2026-11-25 |
 | **Smash CR** | [ServiceNow Solution Consultant – CSM / CMDB / CSDM / ITSM (P-181)](https://jobseveryhour.com/job/servicenow-solution-consultant-csm-cmdb-csdm-itsm-p-181-smash-cr/) | Remote | — | 2026-11-25 |
 | **Weekday AI** | [Java AWS Lambda Developer](https://jobseveryhour.com/job/java-aws-lambda-developer-weekday-ai/) | India · Remote | — | 2026-11-25 |
@@ -234,6 +294,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Devoted Studios** | [Online Programmer](https://jobseveryhour.com/job/backend-engineer-devoted-studios/) | Quebec, Canada · Remote | — | 2026-11-25 |
 | **UMass Global Help** | [Sr Programmer Analyst](https://jobseveryhour.com/job/sr-programmer-analyst-umass-global-help/) | United States Remote | $97K - $130K | 2026-11-25 |
 | **Intermedia Intelligent Communications** | [Sr. Platform Engineer](https://jobseveryhour.com/job/sr-platform-engineer-intermedia-intelligent-communications-4/) | Coimbria, Portugal · Remote | — |  |
+| **NVIDIA** | [Senior Systems Engineer - Autonomous Driving](https://jobseveryhour.com/job/senior-systems-engineer-autonomous-driving-nvidia/) | US, CA, Santa Clara; US, Remote | — | 2026-11-25 |
 | **CrowdStrike** | [Experienced Platform Engineer](https://jobseveryhour.com/job/experienced-platform-engineer-crowdstrike/) | USA - Remote, CA | $100K - $155K | 2026-11-25 |
 | **NVIDIA** | [Senior Technical Marketing Engineer — CUDA-Q Developer Enablement](https://jobseveryhour.com/job/senior-technical-marketing-engineer-cuda-q-developer-enablem-nvidia/) | US, CA, Santa Clara; US, CA, Remote | — | 2026-11-25 |
 | **GoFasti** | [1207 - QA Automation](https://jobseveryhour.com/job/1207-qa-automation-gofasti/) | Remote | — | 2026-11-24 |
@@ -241,7 +302,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Instacart** | [Senior Salesforce Developer](https://jobseveryhour.com/job/senior-salesforce-developer-instacart/) | Canada - Remote (ON, AB, BC, or NS Only) | CA$148K - CA$156K | 2026-11-24 |
 | **Helius** | [Senior Platform Engineer, Infrastructure](https://jobseveryhour.com/job/senior-platform-engineer-infrastructure-helius/) | North America · Remote | — | 2026-11-24 |
 | **Instacart** | [Staff Software Engineer, Developer Experience](https://jobseveryhour.com/job/staff-software-engineer-developer-experience-instacart/) | Canada - Remote (ON, AB, BC, or NS Only) | CA$229K - CA$242K | 2026-11-24 |
-| **Iovance Biotherapeutics** | [Senior Statistical Programming Contractor](https://jobseveryhour.com/job/senior-statistical-programming-contractor-iovance-biotherapeutics/) | Remote | — | 2026-11-24 |
+| **Iovance Biotherapeutics** | [Senior Statistical Programming Contractor](https://jobseveryhour.com/job/senior-statistical-programming-contractor-iovance-biotherapeutics/) | Remote | $85 - $100 an hour | 2026-11-24 |
 | **MANSCAPED** | [Senior Fullstack Engineer, Enterprise Applications Development](https://jobseveryhour.com/job/senior-fullstack-engineer-enterprise-applications-developmen-manscaped/) | United States - Remote | $165K - $175K | 2026-11-24 |
 | **CircleCI** | [Director, Engineering](https://jobseveryhour.com/job/director-engineering-circleci/) | Remote UK, Remote Canada, Remote US | CA$215K - CA$295K | 2026-11-24 |
 | **Super.com** | [Data Engineering Intern](https://jobseveryhour.com/job/data-engineering-intern-super-com/) | Canada · Remote | CA$20 - CA$39 an hour | 2026-11-24 |
@@ -249,67 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Helius** | [Senior Rust Engineer, Privacy](https://jobseveryhour.com/job/senior-rust-engineer-privacy-helius/) | North America · Remote | — | 2026-11-24 |
 | **Chainguard** | [Staff Technical Support Engineer - AMER](https://jobseveryhour.com/job/staff-technical-support-engineer-amer-chainguard/) | Canada - Remote; United States - Remote | $170K - $190K | 2026-11-24 |
 | **Owner** | [Engineering Manager - Voice AI](https://jobseveryhour.com/job/engineering-manager-voice-ai-owner/) | Remote - United States | $240K - $260K | 2026-11-24 |
-| **ACI Learning** | [Full Stack Web & eCommerce Engineer](https://jobseveryhour.com/job/full-stack-web-ecommerce-engineer-aci-learning/) | Remote | $106K - $124K | 2026-11-24 |
-| **Stitch Fix** | [Principal Full-Stack Data Scientist - Foundational Models](https://jobseveryhour.com/job/principal-full-stack-data-scientist-foundational-models-stitch-fix-2/) | Remote, USA | $200K - $237K | 2026-11-24 |
-| **Stitch Fix** | [Distinguished Architect](https://jobseveryhour.com/job/distinguished-architect-stitch-fix-2/) | Remote, USA | $184K - $306K | 2026-11-24 |
-| **ConvertKit** | [Senior Software Engineer II, Agentic Apps](https://jobseveryhour.com/job/senior-software-engineer-ii-agentic-apps-convertkit/) | Remote | $186K | 2026-11-24 |
-| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix-2/) | United States - Remote | $173K - $234K | 2026-11-24 |
-| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix/) | Mexico - Remote | — | 2026-11-24 |
-| **Helix** | [Staff Security Engineer, Agentic Security](https://jobseveryhour.com/job/staff-security-engineer-agentic-security-helix-3/) | Canada - Remote | CA$173K - CA$218K | 2026-11-24 |
-| **Coder** | [Staff Solutions Engineer (US East)](https://jobseveryhour.com/job/staff-solutions-engineer-us-east-coder/) | United States · Remote | $175K - $264K | 2026-11-24 |
-| **Owner** | [Senior/Staff Software Engineer, Guest Lifecycle & Loyalty](https://jobseveryhour.com/job/senior-staff-software-engineer-guest-lifecycle-loyalty-owner/) | Remote - United States | $190K - $260K | 2026-11-24 |
-| **Forward Financing** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-forward-financing/) | Remote - United States | $200K - $250K | 2026-11-24 |
-| **Forward Financing** | [Principal Software Engineer](https://jobseveryhour.com/job/principal-software-engineer-forward-financing-2/) | Remote - Ontario, Canada | CA$200K - CA$250K | 2026-11-24 |
-| **Cloudflare** | [Customer Engineering Manager](https://jobseveryhour.com/job/customer-engineering-manager-cloudflare/) | Remote Mexico | — | 2026-11-24 |
-| **Wealthsimple** | [Senior Software Developer, AI Platform](https://jobseveryhour.com/job/senior-software-developer-ai-platform-wealthsimple/) | Remote (Canada) | CA$154K - CA$193K | 2026-11-24 |
-| **Spotnana** | [Senior Manager, Software Engineering](https://jobseveryhour.com/job/senior-manager-software-engineering-spotnana-2/) | Palo Alto, United States · Remote | $222K - $260K | 2026-11-24 |
-| **Spellbook.com** | [Legal Solutions Architect, Post Sales](https://jobseveryhour.com/job/legal-solutions-architect-post-sales-spellbook-com/) | Remote - British Columbia | CA$128K - CA$157K | 2026-11-24 |
-| **Junipersquare** | [Staff Security Operations Engineer](https://jobseveryhour.com/job/staff-security-operations-engineer-junipersquare/) | Americas (USA or Canada) · Remote | CA$140K - CA$185K | 2026-11-24 |
-| **Swarmaero** | [Staff Software Engineer, Autonomy](https://jobseveryhour.com/job/staff-software-engineer-autonomy-swarmaero/) | Remote | $220K - $300K | 2026-11-24 |
-| **Swarmaero** | [Staff Forward Deployed Engineer](https://jobseveryhour.com/job/staff-forward-deployed-engineer-swarmaero/) | Remote | $220K - $300K | 2026-11-24 |
-| **Swarmaero** | [Software Engineer, Autonomy](https://jobseveryhour.com/job/software-engineer-autonomy-swarmaero/) | Remote | $170K - $250K | 2026-11-24 |
-| **Lancedb** | [Senior Developer Advocate](https://jobseveryhour.com/job/senior-developer-advocate-lancedb/) | USA · Remote | $177K - $230K | 2026-11-24 |
-| **Truelogic** | [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Mexico/Remote](https://jobseveryhour.com/job/senior-full-stack-engineer-react-node-backend-focused-real-e-truelogic-2/) | Mexico City · Remote | — | 2026-11-24 |
-| **Truelogic** | [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Brazil/Remote](https://jobseveryhour.com/job/senior-full-stack-engineer-react-node-backend-focused-real-e-truelogic-3/) | São Paulo · Remote | — | 2026-11-24 |
-| **Truelogic** | [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Colombia/Remote](https://jobseveryhour.com/job/senior-full-stack-engineer-react-node-backend-focused-real-e-truelogic-4/) | Bogota · Remote | — | 2026-11-24 |
-| **Truelogic** | [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Dominican Republic/Remote](https://jobseveryhour.com/job/senior-full-stack-engineer-react-node-backend-focused-real-e-truelogic-5/) | Santo Domingo · Remote | — | 2026-11-24 |
-| **Truelogic** | [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM](https://jobseveryhour.com/job/senior-full-stack-engineer-react-node-backend-focused-real-e-truelogic/) | LatAm · Remote | — | 2026-11-24 |
-| **Power Digital** | [Senior Data Product Engineer](https://jobseveryhour.com/job/senior-data-product-engineer-power-digital-2/) | Remote - Mexico | — | 2026-11-24 |
-| **Power Digital** | [Senior Data Product Engineer](https://jobseveryhour.com/job/senior-data-product-engineer-power-digital-4/) | Remote - Argentina | — | 2026-11-24 |
-| **Power Digital** | [Senior Data Product Engineer](https://jobseveryhour.com/job/senior-data-product-engineer-power-digital-3/) | Remote - Brazil | — | 2026-11-24 |
-| **Affinity.co** | [Senior Engineering Manager, Core](https://jobseveryhour.com/job/senior-engineering-manager-core-affinity-co/) | Canada · Remote | CA$196K - CA$245K | 2026-11-24 |
-| **Power Digital** | [Senior Data Product Engineer](https://jobseveryhour.com/job/senior-data-product-engineer-power-digital/) | Remote - Colombia | — | 2026-11-24 |
-| **Chiri** | [Product Design Engineer (Front-End / UX)](https://jobseveryhour.com/job/product-design-engineer-front-end-ux-chiri/) | Remote | — | 2026-11-24 |
-| **n8n** | [Team Lead of FDE - US](https://jobseveryhour.com/job/team-lead-of-fde-us-n8n/) | Massachusetts, United States · Remote | — | 2026-11-24 |
-| **Censys** | [Senior Engineering Manager, Exposure Management](https://jobseveryhour.com/job/senior-engineering-manager-exposure-management-censys/) | Remote (US/ Canada) | — | 2026-11-24 |
-| **Momentum Engineering** | [ME00703-Software Tester (Manual/Automation)](https://jobseveryhour.com/job/me00703-software-tester-manual-automation-momentum-engineering/) | Remote | — | 2026-11-24 |
-| **Thunder** | [Federal Salesforce Developer - Agentforce Specialist](https://jobseveryhour.com/job/federal-salesforce-developer-agentforce-specialist-thunder-2/) | United States - Remote | $110K - $170K | 2026-11-24 |
-| **Lightspeed Commerce** | [Senior Software Developer](https://jobseveryhour.com/job/senior-software-developer-lightspeed-commerce/) | Montreal · Remote | — | 2026-11-24 |
-| **Tidal Financial** | [Software Engineer](https://jobseveryhour.com/job/software-engineer-tidal-financial/) | Remote (United States) | $110K - $125K | 2026-11-24 |
-| **Qdrant.tech** | [R&D Lead Engineer](https://jobseveryhour.com/job/r-d-lead-engineer-qdrant-tech/) | Remote - Americas | — | 2026-11-24 |
-| **Irissoftwaregroup** | [Staff Software Engineer - Quality Enablement](https://jobseveryhour.com/job/staff-software-engineer-quality-enablement-irissoftwaregroup/) | IRIS Remote, UK | — | 2026-11-24 |
-| **GitLab** | [Senior Journey Architect](https://jobseveryhour.com/job/senior-journey-architect-gitlab-2/) | Remote, United States | $126K - $214K | 2026-11-24 |
-| **Dataiku** | [Sr Data Platform Engineer](https://jobseveryhour.com/job/sr-data-platform-engineer-dataiku/) | France, Remote; Spain, Remote; United Kingdom, Remote | — | 2026-11-24 |
-| **Shield AI** | [Staff Supplier Development Engineer, Munitions (6618)](https://jobseveryhour.com/job/staff-supplier-development-engineer-munitions-6618-shield-ai/) | Remote | $148K - $222K | 2026-11-24 |
-| **Pocket Worlds** | [3D Artist - Hotel Hideaway](https://jobseveryhour.com/job/3d-artist-hotel-hideaway-pocket-worlds/) | Remote: LATAM | — | 2026-11-24 |
-| **Fleetworthy** | [Senior Software Engineer (Python/Data)](https://jobseveryhour.com/job/senior-software-engineer-python-data-fleetworthy/) | Canada (Remote) | — | 2026-11-24 |
-| **MariaDB plc** | [Principal Software Engineer - Developer Tools](https://jobseveryhour.com/job/principal-software-engineer-developer-tools-mariadb-plc/) | Remote - Bulgaria; Remote - EU; Remote - Poland | — | 2026-11-24 |
-| **Cosuno** | [GTM & Growth Engineer](https://jobseveryhour.com/job/gtm-growth-engineer-cosuno-2/) | Berlin/Remote | €70K - €90K | 2026-11-24 |
-| **K ID** | [Founding New Media Lead](https://jobseveryhour.com/job/founding-content-creator-k-id/) | United States · Remote | — | 2026-11-24 |
-| **Summit Therapeutics** | [Senior Specialist, QA (EU)](https://jobseveryhour.com/job/senior-specialist-qa-eu-summit-therapeutics/) | Dublin, Dublin, Ireland, Remote | — | 2026-11-24 |
-| **Marblehealth** | [Founding Account Executive, Districts (Remote, US)](https://jobseveryhour.com/job/founding-account-executive-districts-remote-us-marblehealth/) | Remote, USA | $160K - $225K | 2026-11-24 |
-| **Patrianna** | [Lead/Staff Java Engineer (Payments)](https://jobseveryhour.com/job/lead-staff-java-engineer-payments-patrianna/) | Ukraine · Remote | — | 2026-11-24 |
-| **Kong** | [Staff Solutions Engineer](https://jobseveryhour.com/job/staff-solutions-engineer-kong-11/) | Spain · Remote | — | 2026-11-24 |
-| **Marblehealth** | [Founding Account Executive Lead, Districts (Remote, US)](https://jobseveryhour.com/job/founding-account-executive-lead-districts-remote-us-marblehealth/) | Remote, USA | $175K - $240K | 2026-11-24 |
-| **Malwarebytes** | [Principal Software Development Engineer in Test (AI-Driven Quality Engineering)](https://jobseveryhour.com/job/principal-software-development-engineer-in-test-ai-driven-qu-malwarebytes/) | Tallinn, Estonia; Remote from EU; Spain (remote); Italy (remote); Remote | — | 2026-11-24 |
-| **Patrianna** | [Associate Engineering Manager (Payments)](https://jobseveryhour.com/job/associate-engineering-manager-payments-patrianna/) | Ukraine · Remote | — | 2026-11-24 |
-| **CompQsoft Inc. - ACTIVE** | [Salesforce Developer](https://jobseveryhour.com/job/salesforce-developer-compqsoft-inc-active/) | Silver Spring, MD, USA · Remote | $110K - $130K | 2026-11-24 |
-| **Brainstack** | [Full Stack Developer](https://jobseveryhour.com/job/full-stack-developer-brainstack/) | Remote job | — | 2026-11-24 |
-| **Anaplan** | [Solution Architect (Anaplan) m/f/d](https://jobseveryhour.com/job/solutions-architect-anaplan-anaplan/) | Remote, Germany | — | 2026-11-24 |
-| **SkyePoint Decisions** | [Automation Engineer](https://jobseveryhour.com/job/automation-engineer-skyepoint-decisions/) | Remote | — | 2026-11-24 |
-| **Voyager Technologies, Inc.** | [Staff Agentic Systems Engineer](https://jobseveryhour.com/job/staff-agentic-systems-engineer-voyager-technologies-inc/) | Remote | $100K - $200K | 2026-11-24 |
-| **Voyager Technologies, Inc.** | [Staff Agentic Engineer – Assured Software & Formal Methods (Lead)](https://jobseveryhour.com/job/staff-agentic-engineer-assured-software-formal-methods-lead-voyager-technologies-inc/) | Remote | $100K - $220K | 2026-11-24 |
-| **Abnormal Security** | [Enterprise Platform Engineer, EMEA](https://jobseveryhour.com/job/enterprise-platform-engineer-emea-abnormal-security/) | Remote - UK | — | 2026-11-24 |
 
 ## More
 
